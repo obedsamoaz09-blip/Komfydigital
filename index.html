@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="A Komyfy desenvolve soluções digitais modernas, rápidas e escaláveis para empresas que querem crescer no digital.">
+    <title>KOMYFY - Criamos Websites e Aplicativos que Transformam Ideias em Resultados</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- ========================================
+         HEADER - Estrutura idêntica ao mozwebsites
+         ======================================== -->
+    <header class="header" id="header">
+        <div class="container">
+            <div class="header-wrapper">
+                <!-- Logo (Esquerda) -->
+                <div class="header-logo">
+                    <img src="logo.png" alt="KOMYFY" class="logo-img">
+                </div>
+
+                <!-- Navigation (Centro) -->
+                <nav class="header-nav" id="headerNav">
+                    <ul class="nav-menu">
+                        <li><a href="#home" class="nav-link active">Home</a></li>
+                        <li><a href="#servicos" class="nav-link">Serviços</a></li>
+                        <li><a href="#portfolio" class="nav-link">Portfólio</a></li>
+                        <li><a href="#precos" class="nav-link">Preços</a></li>
+                        <li><a href="#contato" class="nav-link">Contacto</a></li>
+                    </ul>
+                </nav>
+
+                <!-- CTA Button (Direita) -->
+                <div class="header-cta">
+                    <a href="#contato" class="btn btn-primary">Entrar em contacto</a>
+                </div>
+
+                <!-- Mobile Menu Toggle -->
+                <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- ========================================
+         HERO SECTION - Réplica estrutural do mozwebsites
+         ======================================== -->
+    <section class="hero" id="home">
+        <div class="container">
+            <div class="hero-grid">
+                <!-- Coluna Esquerda: Conteúdo Textual -->
+                <div class="hero-left">
+                    <!-- Badge/Etiqueta Superior -->
+                    <div class="hero-badge">
+                        <span>Agência Digital Especializada em Websites & Aplicativos</span>
+                    </div>
+
+                    <!-- Headline Principal -->
+                    <h1 class="hero-heading">
+                        Criamos Websites e Aplicativos que Transformam Ideias em Resultados
+                    </h1>
+
+                    <!-- Subheadline -->
+                    <p class="hero-subheading">
+                        A Komyfy desenvolve soluções digitais modernas, rápidas e escaláveis para empresas que querem
+                        crescer no digital.
+                    </p>
+
+                    <!-- Botões de Ação (lado a lado) -->
+                    <div class="hero-buttons">
+                        <a href="#precos" class="btn btn-primary btn-hero">
+                            Solicitar Orçamento
+                        </a>
+                        <a href="https://wa.me/258840000000" class="btn btn-secondary btn-hero" target="_blank">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path
+                                    d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z">
+                                </path>
+                            </svg>
+                            Falar no WhatsApp
+                        </a>
+                    </div>
+
+                    <!-- Cards Informativos (conforme referência) -->
+                    <div class="hero-info-cards">
+                        <div class="hero-info-card">
+                            <div class="info-card-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                </svg>
+                            </div>
+                            <div class="info-card-text">
+                                <h3>Agência de Confiança</h3>
+                                <p>Projetos focados em performance, design e resultados reais.</p>
+                            </div>
+                        </div>
+
+                        <div class="hero-info-card">
+                            <div class="info-card-icon">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                    <circle cx="9" cy="7" r="4"></circle>
+                                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                </svg>
+                            </div>
+                            <div class="info-card-text">
+                                <h3>Equipe Especializada</h3>
+                                <p>Profissionais experientes em web, apps e automação digital.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coluna Direita: Hero Card Visual -->
+                <div class="hero-right">
+                    <div class="hero-visual-card">
+                        <!-- Elemento visual decorativo -->
+                        <div class="visual-card-content">
+                            <div class="visual-gradient-1"></div>
+                            <div class="visual-gradient-2"></div>
+                            <div class="visual-shape"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — POR QUE ESCOLHER A KOMYFY?
+         Réplica estrutural dos diferenciais do mozwebsites
+         ======================================== -->
+    <section class="why-choose">
+        <div class="container">
+            <h2 class="section-title">Por que escolher a Komyfy?</h2>
+
+            <div class="why-grid">
+                <!-- Card 1: Inovação -->
+                <div class="why-card">
+                    <div class="why-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+                            <polyline points="2 17 12 22 22 17"></polyline>
+                            <polyline points="2 12 12 17 22 12"></polyline>
+                        </svg>
+                    </div>
+                    <h3>Inovação</h3>
+                    <p>Soluções digitais modernas, alinhadas às novas tecnologias e tendências do mercado.</p>
+                </div>
+
+                <!-- Card 2: Criatividade -->
+                <div class="why-card">
+                    <div class="why-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 19l7-7 3 3-7 7-3-3z"></path>
+                            <path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path>
+                            <path d="M2 2l7.586 7.586"></path>
+                            <circle cx="11" cy="11" r="2"></circle>
+                        </svg>
+                    </div>
+                    <h3>Criatividade</h3>
+                    <p>Design estratégico focado em comunicação, experiência e conversão.</p>
+                </div>
+
+                <!-- Card 3: Qualidade -->
+                <div class="why-card">
+                    <div class="why-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                        </svg>
+                    </div>
+                    <h3>Qualidade</h3>
+                    <p>Projetos bem estruturados, rápidos, seguros e otimizados.</p>
+                </div>
+
+                <!-- Card 4: Confiança -->
+                <div class="why-card">
+                    <div class="why-icon">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        </svg>
+                    </div>
+                    <h3>Confiança</h3>
+                    <p>Acompanhamento contínuo, suporte e compromisso com resultados.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — A NOSSA HISTÓRIA E MISSÃO
+         Réplica estrutural do About do mozwebsites
+         ======================================== -->
+    <section class="about">
+        <div class="container">
+            <div class="about-grid">
+                <!-- Coluna Esquerda: Card Visual -->
+                <div class="about-left">
+                    <div class="about-visual-card">
+                        <div class="about-card-content">
+                            <div class="about-gradient-1"></div>
+                            <div class="about-gradient-2"></div>
+                            <div class="about-shape"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coluna Direita: Conteúdo Textual -->
+                <div class="about-right">
+                    <h2 class="section-title section-title-left">A Nossa História e Missão</h2>
+
+                    <p class="about-text">
+                        A Komyfy nasceu com o objetivo de ajudar empresas e empreendedores a se destacarem no digital
+                        através de websites, aplicativos e soluções inteligentes.
+                    </p>
+
+                    <p class="about-text">
+                        Trabalhamos com estratégia, design e tecnologia para criar experiências digitais que geram
+                        impacto e crescimento sustentável.
+                    </p>
+
+                    <!-- Métricas -->
+                    <div class="about-metrics">
+                        <div class="metric">
+                            <div class="metric-number">5+</div>
+                            <div class="metric-label">Anos de Experiência</div>
+                        </div>
+
+                        <div class="metric">
+                            <div class="metric-number">40+</div>
+                            <div class="metric-label">Projetos Concluídos</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — OS NOSSOS PLANOS DE WEBSITES
+         Réplica estrutural do Pricing do mozwebsites
+         ======================================== -->
+    <section class="pricing" id="precos">
+        <div class="container">
+            <h2 class="section-title">Os Nossos Planos de Websites</h2>
+
+            <div class="pricing-grid">
+                <!-- Plano 1: Básico -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <h3 class="pricing-title">Básico</h3>
+                        <p class="pricing-subtitle">Página Única</p>
+                    </div>
+
+                    <ul class="pricing-features">
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Website de uma página
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Design responsivo
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Integração com WhatsApp
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Otimização básica
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Suporte inicial
+                        </li>
+                    </ul>
+
+                    <a href="#contato" class="btn btn-secondary btn-block">Consultar Preço</a>
+                </div>
+
+                <!-- Plano 2: Standard (DESTACADO) -->
+                <div class="pricing-card pricing-card-featured">
+                    <div class="pricing-badge">Mais Popular</div>
+
+                    <div class="pricing-header">
+                        <h3 class="pricing-title">Standard</h3>
+                        <p class="pricing-subtitle">Profissional</p>
+                    </div>
+
+                    <ul class="pricing-features">
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Website institucional completo
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Design personalizado
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Integrações essenciais
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            SEO básico
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Suporte contínuo
+                        </li>
+                    </ul>
+
+                    <a href="#contato" class="btn btn-primary btn-block">Consultar Preço</a>
+                </div>
+
+                <!-- Plano 3: Premium -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <h3 class="pricing-title">Premium</h3>
+                        <p class="pricing-subtitle">Loja / Sistema</p>
+                    </div>
+
+                    <ul class="pricing-features">
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Loja online ou sistema web
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Pagamentos integrados
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Painel administrativo
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Automação
+                        </li>
+                        <li>
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="20 6 9 17 4 12"></polyline>
+                            </svg>
+                            Suporte prioritário
+                        </li>
+                    </ul>
+
+                    <a href="#contato" class="btn btn-secondary btn-block">Consultar Preço</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — SOLUÇÕES INOVADORAS PARA O SEU NEGÓCIO
+         Réplica estrutural dos Serviços do mozwebsites
+         ======================================== -->
+    <section class="services" id="servicos">
+        <div class="container">
+            <h2 class="section-title">Soluções Inovadoras para o Seu Negócio</h2>
+
+            <div class="services-grid">
+                <!-- Serviço 1: Websites -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                            <line x1="8" y1="21" x2="16" y2="21"></line>
+                            <line x1="12" y1="17" x2="12" y2="21"></line>
+                        </svg>
+                    </div>
+                    <h3>Criação de Websites Profissionais</h3>
+                    <p>Websites modernos, responsivos e otimizados para conversão e resultados.</p>
+                </div>
+
+                <!-- Serviço 2: Aplicativos -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
+                            <line x1="12" y1="18" x2="12.01" y2="18"></line>
+                        </svg>
+                    </div>
+                    <h3>Desenvolvimento de Aplicativos</h3>
+                    <p>Apps nativos e híbridos para iOS e Android com design intuitivo.</p>
+                </div>
+
+                <!-- Serviço 3: UX/UI Design -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                            <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                        </svg>
+                    </div>
+                    <h3>UX/UI Design</h3>
+                    <p>Design centrado no usuário para experiências digitais memoráveis.</p>
+                </div>
+
+                <!-- Serviço 4: Automação -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="16 18 22 12 16 6"></polyline>
+                            <polyline points="8 6 2 12 8 18"></polyline>
+                        </svg>
+                    </div>
+                    <h3>Automação e Integrações</h3>
+                    <p>Conectamos suas ferramentas e automatizamos processos do negócio.</p>
+                </div>
+
+                <!-- Serviço 5: E-commerce -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="9" cy="21" r="1"></circle>
+                            <circle cx="20" cy="21" r="1"></circle>
+                            <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                        </svg>
+                    </div>
+                    <h3>Lojas Online</h3>
+                    <p>E-commerce completo com gestão de produtos, pagamentos e logística.</p>
+                </div>
+
+                <!-- Serviço 6: Manutenção -->
+                <div class="service-card">
+                    <div class="service-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path
+                                d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z">
+                            </path>
+                        </svg>
+                    </div>
+                    <h3>Manutenção e Suporte</h3>
+                    <p>Suporte técnico contínuo e atualizações constantes do seu projeto.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — PORTFÓLIO
+         Réplica estrutural do mozwebsites
+         ======================================== -->
+    <section class="portfolio" id="portfolio">
+        <div class="container">
+            <h2 class="section-title">Projetos que Desenvolvemos</h2>
+            <p class="section-subtitle">Algumas soluções digitais criadas pela Komyfy</p>
+
+            <div class="portfolio-grid">
+                <!-- Projeto 1 -->
+                <div class="portfolio-card">
+                    <div class="portfolio-image">
+                        <div class="portfolio-placeholder">
+                            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5">
+                                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                                <line x1="8" y1="21" x2="16" y2="21"></line>
+                                <line x1="12" y1="17" x2="12" y2="21"></line>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="portfolio-overlay">
+                        <div class="portfolio-content">
+                            <h3>E-commerce Fashion</h3>
+                            <p>Website</p>
+                            <a href="#contato" class="btn btn-primary btn-sm">Ver Projeto</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Projeto 2 -->
+                <div class="portfolio-card">
+                    <div class="portfolio-image">
+                        <div class="portfolio-placeholder">
+                            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5">
+                                <rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
+                                <line x1="12" y1="18" x2="12.01" y2="18"></line>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="portfolio-overlay">
+                        <div class="portfolio-content">
+                            <h3>App Delivery</h3>
+                            <p>Aplicativo</p>
+                            <a href="#contato" class="btn btn-primary btn-sm">Ver Projeto</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Projeto 3 -->
+                <div class="portfolio-card">
+                    <div class="portfolio-image">
+                        <div class="portfolio-placeholder">
+                            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="1.5">
+                                <path
+                                    d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z">
+                                </path>
+                                <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+                                <line x1="12" y1="22.08" x2="12" y2="12"></line>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="portfolio-overlay">
+                        <div class="portfolio-content">
+                            <h3>Sistema de Gestão</h3>
+                            <p>Sistema Web</p>
+                            <a href="#contato" class="btn btn-primary btn-sm">Ver Projeto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         SEÇÃO — NEWSLETTER
+         Réplica estrutural do mozwebsites
+         ======================================== -->
+    <section class="newsletter">
+        <div class="container">
+            <div class="newsletter-card">
+                <h2>Subscreva-se à Nossa Newsletter</h2>
+                <p>Receba dicas, novidades e conteúdos exclusivos sobre tecnologia e negócios digitais.</p>
+
+                <form class="newsletter-form" id="newsletterForm">
+                    <input type="email" placeholder="Seu melhor email" required aria-label="Email para newsletter">
+                    <button type="submit" class="btn btn-primary">Subscrever</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- ========================================
+         FOOTER (Rodapé Completo)
+         Réplica estrutural do mozwebsites
+         ======================================== -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <!-- Coluna 1: Marca -->
+                <div class="footer-column footer-brand">
+                    <img src="logo.png" alt="KOMYFY" class="footer-logo">
+                    <p class="footer-description">
+                        A Komyfy é uma agência digital focada em criar soluções modernas que ajudam empresas a crescer
+                        no digital.
+                    </p>
+                </div>
+
+                <!-- Coluna 2: Links Rápidos -->
+                <div class="footer-column">
+                    <h4>Links Rápidos</h4>
+                    <ul class="footer-links">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#servicos">Serviços</a></li>
+                        <li><a href="#portfolio">Portfólio</a></li>
+                        <li><a href="#precos">Preços</a></li>
+                        <li><a href="#contato">Contacto</a></li>
+                    </ul>
+                </div>
+
+                <!-- Coluna 3: Contactos -->
+                <div class="footer-column">
+                    <h4>Contactos</h4>
+                    <ul class="footer-contacts">
+                        <li>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path
+                                    d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z">
+                                </path>
+                            </svg>
+                            <a href="https://wa.me/258840000000" target="_blank">+258 84 000 0000</a>
+                        </li>
+                        <li>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z">
+                                </path>
+                                <polyline points="22,6 12,13 2,6"></polyline>
+                            </svg>
+                            <a href="mailto:contato@komyfy.com">contato@komyfy.com</a>
+                        </li>
+                        <li>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                <circle cx="12" cy="10" r="3"></circle>
+                            </svg>
+                            <span>Moçambique</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Coluna 4: Redes Sociais -->
+                <div class="footer-column">
+                    <h4>Redes Sociais</h4>
+                    <div class="footer-socials">
+                        <a href="#" target="_blank" aria-label="Facebook">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+                            </svg>
+                        </a>
+                        <a href="#" target="_blank" aria-label="Instagram">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                            </svg>
+                        </a>
+                        <a href="#" target="_blank" aria-label="LinkedIn">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                                <path
+                                    d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
+                                </path>
+                                <rect x="2" y="9" width="4" height="12"></rect>
+                                <circle cx="4" cy="4" r="2"></circle>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Copyright -->
+            <div class="footer-bottom">
+                <p>&copy; 2026 Komyfy. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

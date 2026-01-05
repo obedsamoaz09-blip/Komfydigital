@@ -1,0 +1,1049 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>MOZ WEBSITES &#8211; WEBSITES</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Google Tag Manager by PYS -->
+    <script data-cfasync="false" data-pagespeed-no-defer>
+	    window.dataLayerPYS = window.dataLayerPYS || [];
+	</script>
+<!-- End Google Tag Manager by PYS --><script type='application/javascript'  id='pys-version-script'>console.log('PixelYourSite Free version 11.1.4');</script>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para MOZ WEBSITES &raquo;" href="https://www.mozwebsites.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MOZ WEBSITES &raquo;" href="https://www.mozwebsites.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.mozwebsites.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mozwebsites.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.mozwebsites.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mozwebsites.com%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='jkit-elements-main-css' href='https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main.css?ver=3.0.1' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='hide_field_class_style-inline-css'>
+.cfef-hidden , .cfef-hidden-step-field {
+					display: none !important;
+			 	}
+.cfef-hidden {
+					display: none !important;
+			 	}
+/*# sourceURL=hide_field_class_style-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/css/post-10.css?ver=1766791044' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='e-animation-float-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-text-path-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-text-path.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='elementor-post-169-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/css/post-169.css?ver=1766803738' media='all' />
+<link rel='stylesheet' id='cute-alert-css' href='https://www.mozwebsites.com/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='text-editor-style-css' href='https://www.mozwebsites.com/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://www.mozwebsites.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://www.mozwebsites.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://www.mozwebsites.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4' media='all' />
+<link rel='stylesheet' id='sweetalert2-css' href='https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min.css?ver=11.6.16' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='elementor-post-102-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/css/post-102.css?ver=1766791044' media='all' />
+<link rel='stylesheet' id='elementor-post-164-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/css/post-164.css?ver=1766791045' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-poppins-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1754131850' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-rosarivo-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/google-fonts/css/rosarivo.css?ver=1754418892' media='all' />
+<link rel='stylesheet' id='elementor-icons-jkiticon-css' href='https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.css?ver=3.0.1' media='all' />
+<script src="https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.34.0" id="font-awesome-4-shim-js"></script>
+<script src="https://www.mozwebsites.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.mozwebsites.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=0.2.3" id="jquery-bind-first-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pixelyoursite/dist/scripts/tld.min.js?ver=2.3.1" id="js-tld-js"></script>
+<script id="pys-js-extra">
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","ajaxFire":false,"name":"PageView","pixelIds":["1746229403446248"],"eventID":"d69995ef-55a8-41a6-842b-32521cab780b","params":{"page_title":"HOME","post_type":"page","post_id":169,"plugin":"PixelYourSite","user_role":"guest","event_url":"www.mozwebsites.com/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["1746229403446248"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":true,"wooVariableAsSimple":false,"serverApiEnabled":false,"wooCRSendFromServer":false,"send_external_id":null,"enabled_medical":false,"do_not_track_medical_param":["event_url","post_title","page_title","landing_page","content_name","categories","category_name","tags"],"meta_ldu":false},"ga":{"trackingIds":["G-VYEB3LKK25"],"commentEventEnabled":true,"downloadEnabled":true,"formEventEnabled":true,"crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"isDebugEnabled":[],"serverContainerUrls":{"G-VYEB3LKK25":{"enable_server_container":"","server_container_url":"","transport_url":""}},"additionalConfig":{"G-VYEB3LKK25":{"first_party_collection":true}},"disableAdvertisingFeatures":false,"disableAdvertisingPersonalization":false,"wooVariableAsSimple":true,"custom_page_view_event":false},"debug":"","siteUrl":"https://www.mozwebsites.com","ajaxUrl":"https://www.mozwebsites.com/wp-admin/admin-ajax.php","ajax_event":"bfe310a766","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","ajaxForServerStaticEvent":"1","useSendBeacon":"1","send_external_id":"1","external_id_expire":"180","track_cookie_for_subdomains":"1","google_consent_mode":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"reddit_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"https://www.mozwebsites.com/","TrafficUtms":[],"TrafficUtmsId":[]},"GATags":{"ga_datalayer_type":"default","ga_datalayer_name":"dataLayerPYS"},"woo":{"enabled":false},"edd":{"enabled":false},"cache_bypass":"1767460186"};
+//# sourceURL=pys-js-extra
+</script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=11.1.4" id="pys-js"></script>
+
+<!-- Snippet da etiqueta do Google (gtag.js) adicionado pelo Site Kit -->
+<!-- Snippet do Google Análises adicionado pelo Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-T944KWV4&l=dataLayerPYS" id="google_gtagjs-js" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayerPYS = window.dataLayerPYS || [];function gtag(){dataLayerPYS.push(arguments);}
+gtag("set","linker",{"domains":["www.mozwebsites.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-T944KWV4");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://www.mozwebsites.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.mozwebsites.com/wp-json/wp/v2/pages/169" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mozwebsites.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel="canonical" href="https://www.mozwebsites.com/" />
+<link rel='shortlink' href='https://www.mozwebsites.com/' />
+<meta name="generator" content="Site Kit by Google 1.168.0" /><meta name="generator" content="Elementor 3.34.0; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+						<meta name="theme-color" content="#A40DBD29">
+			<link rel="icon" href="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-270x270.png" />
+</head>
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-169 wp-custom-logo wp-embed-responsive wp-theme-hello-elementor jkit-color-scheme hello-elementor-default elementor-default elementor-template-full-width elementor-kit-10 elementor-page elementor-page-169">
+
+
+<a class="skip-link screen-reader-text" href="#content">Ir para o conteúdo</a>
+
+		<header data-elementor-type="header" data-elementor-id="102" class="elementor elementor-102 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-781faab3 elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="781faab3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-73dafe5b" data-id="73dafe5b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-449f9b2b elementor-widget elementor-widget-image" data-id="449f9b2b" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://www.mozwebsites.com">
+							<img fetchpriority="high" width="512" height="512" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png" class="attachment-full size-full wp-image-116" alt="" decoding="async" srcset="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png 512w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-300x300.png 300w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-150x150.png 150w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-270x270.png 270w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-192x192.png 192w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-180x180.png 180w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" />								</a>
+															</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-66032bd1" data-id="66032bd1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56803bd9 elementor-widget-tablet__width-auto elementor-widget elementor-widget-jkit_nav_menu" data-id="56803bd9" data-element_type="widget" data-settings="{&quot;st_menu_item_text_normal_bg_background_background&quot;:&quot;gradient&quot;,&quot;st_submenu_item_text_normal_bg_background_background&quot;:&quot;classic&quot;}" data-widget_type="jkit_nav_menu.default">
+					<div  class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_169__69594d5ab1262"  data-item-indicator="&lt;i aria-hidden=&quot;true&quot; class=&quot;jki jki-angle-down-solid&quot;&gt;&lt;/i&gt;"><button aria-label="open-menu" class="jkit-hamburger-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-bars-solid"></i></span></button>
+        <div class="jkit-menu-wrapper"><div class="jkit-menu-container"><ul id="menu-menu" class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"><li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-169 current_page_item menu-item-170"><a href="https://www.mozwebsites.com/" aria-current="page">Home</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.mozwebsites.com/sobre/">Sobre nós</a></li>
+<li id="menu-item-911" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-has-children menu-item-911"><a href="/" aria-current="page">Nossos Pacotes</a>
+<ul class="sub-menu">
+	<li id="menu-item-897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-897"><a href="https://www.mozwebsites.com/websites/">Websites</a></li>
+	<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><a href="https://www.mozwebsites.com/emails-corporativos/">Emails Corporativos</a></li>
+	<li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="https://www.mozwebsites.com/hospedagem/">Hospedagem</a></li>
+	<li id="menu-item-909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909"><a href="https://www.mozwebsites.com/gestao-de-redes-socias/">Gestão de redes Sócias</a></li>
+	<li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="https://www.mozwebsites.com/logotipo/">Logotipo</a></li>
+</ul>
+</li>
+<li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://www.mozwebsites.com/blog/">Blog</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://www.mozwebsites.com/contacto/">Contacto</a></li>
+</ul></div>
+            <div class="jkit-nav-identity-panel">
+                <div class="jkit-nav-site-title"><a href="https://www.mozwebsites.com" class="jkit-nav-logo" aria-label="Home Link"><img width="2000" height="816" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893.png 2000w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-300x122.png 300w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-1024x418.png 1024w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-768x313.png 768w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-1536x627.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div>
+                <button aria-label="close-menu" class="jkit-close-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-times-solid"></i></span></button>
+            </div>
+        </div>
+        <div class="jkit-overlay"></div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-296b7c9f elementor-hidden-mobile elementor-hidden-tablet" data-id="296b7c9f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72c3047b elementor-widget__width-auto elementor-widget elementor-widget-jkit_search" data-id="72c3047b" data-element_type="widget" data-widget_type="jkit_search.default">
+					<div  class="jeg-elementor-kit jkit-search jeg_module_169_1_69594d5ab722a" ><a href="#" class="jkit-search-modal"><i aria-hidden="true" class="jki jki-search11-light"></i></a>
+			<div class="jkit-modal-search-panel-wrapper">
+				<div class="jkit-modal-search-panel">
+					<div class="jkit-search-panel">
+					<form role="search" method="get" class="jkit-search-group" action="https://www.mozwebsites.com/">
+						<input type="search" class="jkit-search-field" placeholder="Pesquisar..." value="" name="s" />
+						<button type="submit" class="jkit-search-button" aria-label="search-button"><i aria-hidden="true" class="jki jki-search11-light"></i></button>
+					</form>
+				</div>
+				</div>
+			</div></div>				</div>
+				<div class="elementor-element elementor-element-7c3ba8e elementor-widget__width-auto elementor-widget elementor-widget-jkit_off_canvas" data-id="7c3ba8e" data-element_type="widget" data-widget_type="jkit_off_canvas.default">
+					<div  class="jeg-elementor-kit jkit-off-canvas jeg_module_169_2_69594d5abb483" ><div class="toggle-wrapper"><a href="#" class="offcanvas-sidebar-button" aria-label="Off Canvas Button"><i aria-hidden="true" class="jki jki-menu1-light"></i></a></div>
+		<div class="offcanvas-sidebar position-right">
+			<div class="bg-overlay"></div>
+			<div class="sidebar-widget">
+				<div class="widget-container">
+					<div class="widget-heading"><a href="#" class="offcanvas-close-button" aria-label="Off Canvas Button"><i aria-hidden="true" class="jki jki-times-solid"></i></a></div>
+					<div class="widget-content"><style>.elementor-63 .elementor-element.elementor-element-6d395420 > .elementor-background-overlay{background-color:#00000052;opacity:0.46;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-63 .elementor-element.elementor-element-6d395420 > .elementor-container{max-width:1290px;}.elementor-63 .elementor-element.elementor-element-6d395420{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;z-index:999;}.elementor-bc-flex-widget .elementor-63 .elementor-element.elementor-element-17c8554a.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-63 .elementor-element.elementor-element-17c8554a.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-63 .elementor-element.elementor-element-17c8554a.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-63 .elementor-element.elementor-element-6930b4e8{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 30px) 0px;text-align:start;}.elementor-63 .elementor-element.elementor-element-6930b4e8 img{width:103px;}.elementor-63 .elementor-element.elementor-element-8205363 .elementor-heading-title{font-family:var( --e-global-typography-c72e5ad-font-family ), Sans-serif;font-size:var( --e-global-typography-c72e5ad-font-size );font-weight:var( --e-global-typography-c72e5ad-font-weight );color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-7648b58{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;--e-icon-list-icon-align:left;--e-icon-list-icon-margin:0 calc(var(--e-icon-list-icon-size, 1em) * 0.25) 0 0;--icon-vertical-offset:0px;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(18px/2);}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(18px/2);}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(18px/2);}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-18px/2);}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-18px/2);}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-item:not(:last-child):after{content:"";}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child):after{border-block-start-style:solid;border-block-start-width:0px;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:not(:last-child):after{border-inline-start-style:solid;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-inline-items .elementor-icon-list-item:not(:last-child):after{border-inline-start-width:0px;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-icon i{color:var( --e-global-color-secondary );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-icon svg{fill:var( --e-global-color-secondary );transition:fill 0.3s;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-item > a{font-family:"Poppins", Sans-serif;font-size:14px;font-weight:400;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-7648b58 .elementor-icon-list-item:hover .elementor-icon-list-text{color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-6fd8c9d1 .elementor-heading-title{font-family:"Nunito Sans", Sans-serif;font-size:22px;font-weight:700;letter-spacing:0.5px;color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-c547629.elementor-social-icon{background-color:#66FCF100;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-c547629.elementor-social-icon i{color:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-c547629.elementor-social-icon svg{fill:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-53512dc.elementor-social-icon{background-color:#02010100;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-53512dc.elementor-social-icon i{color:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-53512dc.elementor-social-icon svg{fill:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-4a5a0e6.elementor-social-icon{background-color:#02010100;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-4a5a0e6.elementor-social-icon i{color:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-repeater-item-4a5a0e6.elementor-social-icon svg{fill:#FFFFFF;}.elementor-63 .elementor-element.elementor-element-6a864836{--grid-template-columns:repeat(0, auto);text-align:left;margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 0px) 0px;z-index:1;--icon-size:14px;--grid-column-gap:14px;--grid-row-gap:0px;}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon{background-color:#02010100;--icon-padding:1em;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-7fee12b );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon i{color:var( --e-global-color-682b885 );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon svg{fill:var( --e-global-color-682b885 );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon:hover i{color:var( --e-global-color-682b885 );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon:hover svg{fill:var( --e-global-color-682b885 );}.elementor-63 .elementor-element.elementor-element-6a864836 .elementor-social-icon:hover{border-color:var( --e-global-color-2aad187 );}.elementor-63 .elementor-element.elementor-element-2658e68{text-align:start;font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-ef90a17:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:radial-gradient(at top right, #230016 0%, #4B005B 100%);}.elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated, .elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated > .elementor-background-overlay, .elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 20px 0px 0px;--e-column-margin-right:20px;--e-column-margin-left:0px;padding:40px 40px 40px 40px;}.elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-63 .elementor-element.elementor-element-ef90a17{z-index:2;}.elementor-63 .elementor-element.elementor-element-541e1da{text-align:start;}.elementor-63 .elementor-element.elementor-element-541e1da .elementor-heading-title{font-family:"Rosarivo", Sans-serif;font-size:20px;font-weight:600;color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-50f9b5d{margin:-5px 0px calc(var(--kit-widget-spacing, 0px) + -10px) 0px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading{text-align:left;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title{-webkit-box-decoration-break:clone;box-decoration-break:clone;display:inline;font-family:"Russo One", Sans-serif;font-size:25px;font-weight:500;line-height:1.2em;color:#F37920;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-section-title{margin:0px 0px 0px 0px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title > span{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-63 .elementor-element.elementor-element-4cd4f49{--divider-border-style:solid;--divider-color:var( --e-global-color-b4f79e1 );--divider-border-width:1px;}.elementor-63 .elementor-element.elementor-element-4cd4f49 .elementor-divider-separator{width:100%;}.elementor-63 .elementor-element.elementor-element-4cd4f49 .elementor-divider{padding-block-start:10px;padding-block-end:10px;}.elementor-63 .elementor-element.elementor-element-b8014b4{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 10px) 0px;--e-icon-list-icon-size:16px;--icon-vertical-offset:0px;}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-37px/2);}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-37px/2);}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-icon i{color:var( --e-global-color-7fee12b );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-icon svg{fill:var( --e-global-color-7fee12b );transition:fill 0.3s;}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-icon{padding-inline-end:8px;}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{background-color:transparent;width:100%;padding:18px 30px 18px 30px;font-family:var( --e-global-typography-aa8fcad-font-family ), Sans-serif;font-size:var( --e-global-typography-aa8fcad-font-size );font-weight:var( --e-global-typography-aa8fcad-font-weight );line-height:var( --e-global-typography-aa8fcad-line-height );color:var( --e-global-color-primary );background-image:linear-gradient(320deg, var( --e-global-color-49483a8 ) 0%, var( --e-global-color-682b885 ) 100%);border-radius:50px 50px 50px 50px;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:not(.hover-gradient):hover, .elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper.hover-gradient:before{background-color:transparent;background-image:linear-gradient(320deg, var( --e-global-color-7fee12b ) 0%, var( --e-global-color-49483a8 ) 100%);}.elementor-63 .elementor-element.elementor-element-563f114{width:100%;max-width:100%;align-self:center;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button{text-align:left;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper svg{fill:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:hover{color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:hover svg{fill:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button.icon-position-before .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button.icon-position-before .jkit-button-wrapper svg{margin-right:10px;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button.icon-position-after .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button.icon-position-after .jkit-button-wrapper svg{margin-left:10px;}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper svg{-webkit-transform:translateY(-1px);-ms-transform:translateY(-1px);-o-transform:translateY(-1px);-moz-transform:translateY(-1px);transform:translateY(-1px);}.elementor-63 .elementor-element.elementor-element-c31c2f2:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:radial-gradient(at top right, #4B005B 18%, #230016 99%);}.elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated, .elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated > .elementor-background-overlay, .elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-background-slideshow{border-radius:20px 20px 20px 20px;}.elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 10px 0px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;padding:40px 40px 40px 40px;}.elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-63 .elementor-element.elementor-element-c31c2f2{z-index:2;}.elementor-63 .elementor-element.elementor-element-8c53899{text-align:start;}.elementor-63 .elementor-element.elementor-element-8c53899 .elementor-heading-title{font-family:"Rosarivo", Sans-serif;font-size:20px;font-weight:600;color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-98385fa{margin:-5px 0px calc(var(--kit-widget-spacing, 0px) + -10px) 0px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading{text-align:left;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title{-webkit-box-decoration-break:clone;box-decoration-break:clone;display:inline;font-family:"Russo One", Sans-serif;font-size:25px;font-weight:500;line-height:1.2em;color:#F37920;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-section-title{margin:0px 0px 0px 0px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title > span{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-63 .elementor-element.elementor-element-9733d30{--divider-border-style:solid;--divider-color:var( --e-global-color-b4f79e1 );--divider-border-width:1px;}.elementor-63 .elementor-element.elementor-element-9733d30 .elementor-divider-separator{width:100%;}.elementor-63 .elementor-element.elementor-element-9733d30 .elementor-divider{padding-block-start:10px;padding-block-end:10px;}.elementor-63 .elementor-element.elementor-element-6e80e2c{margin:0px 0px calc(var(--kit-widget-spacing, 0px) + 10px) 0px;--e-icon-list-icon-size:16px;--icon-vertical-offset:0px;}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-block-end:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-block-start:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-inline:calc(37px/2);}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-items.elementor-inline-items{margin-inline:calc(-37px/2);}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{inset-inline-end:calc(-37px/2);}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-icon i{color:var( --e-global-color-7fee12b );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-icon svg{fill:var( --e-global-color-7fee12b );transition:fill 0.3s;}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-icon{padding-inline-end:8px;}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-text{color:var( --e-global-color-primary );transition:color 0.3s;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{background-color:transparent;width:100%;padding:18px 30px 18px 30px;font-family:var( --e-global-typography-aa8fcad-font-family ), Sans-serif;font-size:var( --e-global-typography-aa8fcad-font-size );font-weight:var( --e-global-typography-aa8fcad-font-weight );line-height:var( --e-global-typography-aa8fcad-line-height );color:var( --e-global-color-primary );background-image:linear-gradient(320deg, var( --e-global-color-49483a8 ) 0%, var( --e-global-color-682b885 ) 100%);border-radius:50px 50px 50px 50px;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:not(.hover-gradient):hover, .elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper.hover-gradient:before{background-color:transparent;background-image:linear-gradient(320deg, var( --e-global-color-7fee12b ) 0%, var( --e-global-color-49483a8 ) 100%);}.elementor-63 .elementor-element.elementor-element-d2e4b65{width:100%;max-width:100%;align-self:center;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button{text-align:left;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper svg{fill:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:hover{color:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper:hover svg{fill:var( --e-global-color-primary );}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button.icon-position-before .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button.icon-position-before .jkit-button-wrapper svg{margin-right:10px;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button.icon-position-after .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button.icon-position-after .jkit-button-wrapper svg{margin-left:10px;}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper i, .elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper svg{-webkit-transform:translateY(-1px);-ms-transform:translateY(-1px);-o-transform:translateY(-1px);-moz-transform:translateY(-1px);transform:translateY(-1px);}:root{--page-title-display:none;}@media(max-width:1024px) and (min-width:768px){.elementor-63 .elementor-element.elementor-element-ef90a17{width:50%;}.elementor-63 .elementor-element.elementor-element-c31c2f2{width:50%;}}@media(max-width:1024px){.elementor-63 .elementor-element.elementor-element-8205363 .elementor-heading-title{font-size:var( --e-global-typography-c72e5ad-font-size );}.elementor-63 .elementor-element.elementor-element-6a864836{text-align:center;}.elementor-63 .elementor-element.elementor-element-2658e68{font-size:var( --e-global-typography-accent-font-size );}.elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated{margin:0px 10px 20px 0px;--e-column-margin-right:10px;--e-column-margin-left:0px;padding:40px 40px 40px 40px;}.elementor-63 .elementor-element.elementor-element-541e1da .elementor-heading-title{font-size:19px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title{font-size:36px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title > span{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{font-size:var( --e-global-typography-aa8fcad-font-size );line-height:var( --e-global-typography-aa8fcad-line-height );}.elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated{margin:0px 0px 20px 10px;--e-column-margin-right:0px;--e-column-margin-left:10px;padding:40px 40px 40px 40px;}.elementor-63 .elementor-element.elementor-element-8c53899 .elementor-heading-title{font-size:19px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title{font-size:36px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title > span{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{font-size:var( --e-global-typography-aa8fcad-font-size );line-height:var( --e-global-typography-aa8fcad-line-height );}}@media(max-width:767px){.elementor-63 .elementor-element.elementor-element-8205363 .elementor-heading-title{font-size:var( --e-global-typography-c72e5ad-font-size );}.elementor-63 .elementor-element.elementor-element-6a864836{text-align:center;}.elementor-63 .elementor-element.elementor-element-2658e68{text-align:center;font-size:var( --e-global-typography-accent-font-size );}.elementor-63 .elementor-element.elementor-element-ef90a17 > .elementor-element-populated{margin:0px 0px 20px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:30px 30px 30px 30px;}.elementor-63 .elementor-element.elementor-element-541e1da .elementor-heading-title{font-size:18px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title{font-size:33px;}.elementor-63 .elementor-element.elementor-element-50f9b5d .jeg-elementor-kit.jkit-heading .heading-title > span{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-b8014b4 .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-563f114 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{font-size:var( --e-global-typography-aa8fcad-font-size );line-height:var( --e-global-typography-aa8fcad-line-height );}.elementor-63 .elementor-element.elementor-element-c31c2f2 > .elementor-element-populated{margin:0px 0px 20px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:30px 30px 30px 30px;}.elementor-63 .elementor-element.elementor-element-8c53899 .elementor-heading-title{font-size:18px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title{font-size:33px;}.elementor-63 .elementor-element.elementor-element-98385fa .jeg-elementor-kit.jkit-heading .heading-title > span{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > .elementor-icon-list-text, .elementor-63 .elementor-element.elementor-element-6e80e2c .elementor-icon-list-item > a{font-size:var( --e-global-typography-text-font-size );}.elementor-63 .elementor-element.elementor-element-d2e4b65 .jeg-elementor-kit.jkit-button .jkit-button-wrapper{font-size:var( --e-global-typography-aa8fcad-font-size );line-height:var( --e-global-typography-aa8fcad-line-height );}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Russo One';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://www.mozwebsites.com/wp-content/uploads/2025/08/RussoOne-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */</style>		<div data-elementor-type="page" data-elementor-id="63" class="elementor elementor-63" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6d395420 elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6d395420" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17c8554a" data-id="17c8554a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6930b4e8 elementor-widget elementor-widget-image" data-id="6930b4e8" data-element_type="widget" data-widget_type="image.default">
+															<img fetchpriority="high" width="512" height="512" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png" class="attachment-full size-full wp-image-116" alt="" decoding="async" srcset="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png 512w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-300x300.png 300w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-150x150.png 150w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-270x270.png 270w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-192x192.png 192w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-180x180.png 180w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				<div class="elementor-element elementor-element-8205363 elementor-widget elementor-widget-heading" data-id="8205363" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Os nossos Pacotes</h2>				</div>
+				<div class="elementor-element elementor-element-7648b58 elementor-align-start elementor-tablet-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7648b58" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Websites</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">E-mails Corporativos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Hospedagem</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Gestão de Redes</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Design de Cartazes &amp; Company Profile.</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-6fd8c9d1 elementor-widget elementor-widget-heading" data-id="6fd8c9d1" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Redes Sócias</h2>				</div>
+				<div class="elementor-element elementor-element-6a864836 elementor-shape-circle e-grid-align-left e-grid-align-mobile-center e-grid-align-tablet-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="6a864836" data-element_type="widget" data-widget_type="social-icons.default">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-jki-facebook-light elementor-animation-grow elementor-repeater-item-c547629" href="https://www.facebook.com/profile.php?id=61556539271261" target="_blank">
+						<span class="elementor-screen-only">Jki-facebook-light</span>
+						<i aria-hidden="true" class="jki jki-facebook-light"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-grow elementor-repeater-item-53512dc" href="https://www.instagram.com/moz.websites1/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-envelope elementor-animation-grow elementor-repeater-item-4a5a0e6" href="http://geral@mozwebsites.com" target="_blank">
+						<span class="elementor-screen-only">Envelope</span>
+						<svg aria-hidden="true" class="e-font-icon-svg e-fas-envelope" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				<div class="elementor-element elementor-element-2658e68 elementor-widget elementor-widget-text-editor" data-id="2658e68" data-element_type="widget" data-widget_type="text-editor.default">
+									<p>Copyright © 2025. Todos os direitos reservados.</p>								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ef90a17" data-id="ef90a17" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-541e1da elementor-widget elementor-widget-heading" data-id="541e1da" data-element_type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Basico</h3>				</div>
+				<div class="elementor-element elementor-element-50f9b5d elementor-widget elementor-widget-jkit_heading" data-id="50f9b5d" data-element_type="widget" data-widget_type="jkit_heading.default">
+					<div  class="jeg-elementor-kit jkit-heading  align- align-tablet- align-mobile- jeg_module_169_3_69594d5aebf66" ><div class="heading-section-title  display-inline-block"><h2 class="heading-title">Página Única</h2></div></div>				</div>
+				<div class="elementor-element elementor-element-4cd4f49 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4cd4f49" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-b8014b4 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b8014b4" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Website de uma página</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Domínio (.co.mz)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">5 contas de e-mail</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Integração com WhatsApp</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">5GB de armazenamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Suporte contínuo 24/7</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-563f114 elementor-widget__width-inherit elementor-widget elementor-widget-jkit_button" data-id="563f114" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_4_69594d5aec96d" ><a href="" class="jkit-button-wrapper hover-gradient"><span>Consultar preço</span></a></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c31c2f2" data-id="c31c2f2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8c53899 elementor-widget elementor-widget-heading" data-id="8c53899" data-element_type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Standard</h3>				</div>
+				<div class="elementor-element elementor-element-98385fa elementor-widget elementor-widget-jkit_heading" data-id="98385fa" data-element_type="widget" data-widget_type="jkit_heading.default">
+					<div  class="jeg-elementor-kit jkit-heading  align- align-tablet- align-mobile- jeg_module_169_5_69594d5aed175" ><div class="heading-section-title  display-inline-block"><h2 class="heading-title">Site Empresarial</h2></div></div>				</div>
+				<div class="elementor-element elementor-element-9733d30 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9733d30" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-6e80e2c elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6e80e2c" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Website de até 10 páginas</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Domínio (.co.mz)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">15 contas de e-mail</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Integração com WhatsApp</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">15GB de armazenamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Suporte contínuo 24/7</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-d2e4b65 elementor-widget__width-inherit elementor-widget elementor-widget-jkit_button" data-id="d2e4b65" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_6_69594d5aed88c" ><a href="" class="jkit-button-wrapper hover-gradient"><span>Consultar preço</span></a></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+			</div>
+		</div></div>				</div>
+				<div class="elementor-element elementor-element-11463e3d elementor-widget__width-auto elementor-widget elementor-widget-jkit_button" data-id="11463e3d" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_7_69594d5aee812" ><a href="https://www.mozwebsites.com/?page_id=1474&#038;preview=true" class="jkit-button-wrapper hover-gradient"><span>Entrar em contacto</span></a></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-ca2c658 elementor-hidden-desktop e-flex e-con-boxed e-con e-parent" data-id="ca2c658" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4c23ce2 e-con-full e-flex e-con e-child" data-id="4c23ce2" data-element_type="container">
+				<div class="elementor-element elementor-element-d31012a elementor-widget elementor-widget-image" data-id="d31012a" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://www.mozwebsites.com">
+							<img fetchpriority="high" width="512" height="512" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png" class="attachment-full size-full wp-image-116" alt="" decoding="async" srcset="https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893.png 512w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-300x300.png 300w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-150x150.png 150w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-270x270.png 270w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-192x192.png 192w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-180x180.png 180w, https://www.mozwebsites.com/wp-content/uploads/2025/08/cropped-MOZWEBSITES23-e1731220687893-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" />								</a>
+															</div>
+				</div>
+		<div class="elementor-element elementor-element-b350b45 e-con-full e-flex e-con e-child" data-id="b350b45" data-element_type="container">
+				<div class="elementor-element elementor-element-21ba628 elementor-widget-tablet__width-auto elementor-widget elementor-widget-jkit_nav_menu" data-id="21ba628" data-element_type="widget" data-settings="{&quot;st_menu_item_text_normal_bg_background_background&quot;:&quot;gradient&quot;,&quot;st_submenu_item_text_normal_bg_background_background&quot;:&quot;classic&quot;}" data-widget_type="jkit_nav_menu.default">
+					<div  class="jeg-elementor-kit jkit-nav-menu break-point-tablet submenu-click-title jeg_module_169_8_69594d5aef946"  data-item-indicator="&lt;i aria-hidden=&quot;true&quot; class=&quot;jki jki-angle-down-solid&quot;&gt;&lt;/i&gt;"><button aria-label="open-menu" class="jkit-hamburger-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-bars-solid"></i></span></button>
+        <div class="jkit-menu-wrapper"><div class="jkit-menu-container"><ul id="menu-menu-1" class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-169 current_page_item menu-item-170"><a href="https://www.mozwebsites.com/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.mozwebsites.com/sobre/">Sobre nós</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-has-children menu-item-911"><a href="/" aria-current="page">Nossos Pacotes</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-897"><a href="https://www.mozwebsites.com/websites/">Websites</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><a href="https://www.mozwebsites.com/emails-corporativos/">Emails Corporativos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="https://www.mozwebsites.com/hospedagem/">Hospedagem</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-909"><a href="https://www.mozwebsites.com/gestao-de-redes-socias/">Gestão de redes Sócias</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="https://www.mozwebsites.com/logotipo/">Logotipo</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://www.mozwebsites.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://www.mozwebsites.com/contacto/">Contacto</a></li>
+</ul></div>
+            <div class="jkit-nav-identity-panel">
+                <div class="jkit-nav-site-title"><a href="https://www.mozwebsites.com" class="jkit-nav-logo" aria-label="Home Link"><img width="2000" height="816" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893.png 2000w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-300x122.png 300w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-1024x418.png 1024w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-768x313.png 768w, https://www.mozwebsites.com/wp-content/uploads/2025/08/MOZWEBSITES23-e1731220687893-1536x627.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div>
+                <button aria-label="close-menu" class="jkit-close-menu hover-gradient"><span><i aria-hidden="true" class="jki jki-times-solid"></i></span></button>
+            </div>
+        </div>
+        <div class="jkit-overlay"></div></div>				</div>
+				</div>
+					</div>
+				</div>
+				</header>
+				<div data-elementor-type="wp-page" data-elementor-id="169" class="elementor elementor-169" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-429c4ad3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="429c4ad3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f5bd036" data-id="1f5bd036" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15fde33a elementor-widget elementor-widget-jkit_animated_text" data-id="15fde33a" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_9_69594d5b004cd"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Agência Criativa de Design e Tecnologia</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-12c08686 elementor-widget elementor-widget-heading" data-id="12c08686" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Damos Vida à Sua Marca com Design Criativo &amp; Estratégico.</h2>				</div>
+				<div class="elementor-element elementor-element-665d6156 elementor-widget elementor-widget-text-editor" data-id="665d6156" data-element_type="widget" data-widget_type="text-editor.default">
+									<p>Acreditamos que o design é uma ferramenta poderosa para transformar marcas. Criamos soluções criativas e inovadoras que fazem a sua empresa destacar-se num mercado visual e exigente.</p>								</div>
+				<div class="elementor-element elementor-element-ec44b71 elementor-hidden-mobile elementor-widget elementor-widget-text-path" data-id="ec44b71" data-element_type="widget" data-settings="{&quot;text&quot;:&quot;Maior Ag\u00eancia de cria\u00e7\u00e3o de Websites  em mo\u00e7ambique&quot;,&quot;align&quot;:&quot;center&quot;,&quot;text_path_direction&quot;:&quot;ltr&quot;,&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;}}" data-widget_type="text-path.default">
+							<div class="e-text-path elementor-animation-float" data-text="Maior Ag&ecirc;ncia de cria&ccedil;&atilde;o de Websites  em mo&ccedil;ambique" data-url="//www.mozwebsites.com/wp-content/plugins/elementor/assets/svg-paths/circle.svg" data-link-url=""></div>
+						</div>
+				<div class="elementor-element elementor-element-17c879db elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-spacer" data-id="17c879db" data-element_type="widget" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-113ed337" data-id="113ed337" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1c41cddb elementor-widget elementor-widget-image" data-id="1c41cddb" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://www.mozwebsites.com/wp-content/uploads/2025/08/illustration-digital-art-style-with-pottery-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="illustration-digital-art-style-with-pottery" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NTEyLCJ1cmwiOiJodHRwczpcL1wvd3d3Lm1vendlYnNpdGVzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDhcL2lsbHVzdHJhdGlvbi1kaWdpdGFsLWFydC1zdHlsZS13aXRoLXBvdHRlcnktc2NhbGVkLmpwZyJ9">
+							<img decoding="async" src="https://www.mozwebsites.com/wp-content/uploads/elementor/thumbs/illustration-digital-art-style-with-pottery-scaled-r9tk4305i54lmpgh9z77i0gbzny19u66ecu9i0smhs.jpg" title="illustration-digital-art-style-with-pottery" alt="illustration-digital-art-style-with-pottery" loading="lazy" />								</a>
+															</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4867d49a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4867d49a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-406381ca" data-id="406381ca" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c399f0a elementor-widget elementor-widget-heading" data-id="c399f0a" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Design de Identidade</h2>				</div>
+				<div class="elementor-element elementor-element-71b0a633 elementor-widget elementor-widget-text-editor" data-id="71b0a633" data-element_type="widget" data-widget_type="text-editor.default">
+									<p data-start="271" data-end="456">Identidades visuais fortes e autênticas que geram reconhecimento e confiança.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-17fb0843" data-id="17fb0843" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3712e2 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="3712e2" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_169_10_69594d5b04d6b" ><div class="jkit-icon-box-wrapper hover-from-left"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><i aria-hidden="true" class="jki jki-pen_shape-light"></i></div></div><div class="icon-box icon-box-body">
+                <h5 class="title">Agência de Referência</h5><p class="icon-box-description">Ajudamos a posicionar marcas para que sejam lembradas e reconhecidas no mercado.</p>
+            </div>
+            
+            </div></div>				</div>
+				<div class="elementor-element elementor-element-12036cdb jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="12036cdb" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_169_11_69594d5b056d7" ><div class="jkit-icon-box-wrapper hover-from-left"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><i aria-hidden="true" class="jki jki-pencil_art-light"></i></div></div><div class="icon-box icon-box-body">
+                <h5 class="title">Equipa Qualificada</h5><p class="icon-box-description">Contamos com profissionais experientes e dedicados à inovação, design e tecnologia.</p>
+            </div>
+            
+            </div></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-69f1ca69 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69f1ca69" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a84319e" data-id="2a84319e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e424d56 elementor-widget elementor-widget-jkit_animated_text" data-id="e424d56" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_12_69594d5b05eef"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Porque escolher a </span></span><span class="normal-text style-color"> Moz Websites?</span></p></div>				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2e89aa5d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e89aa5d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-a4e8ea3" data-id="a4e8ea3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-31d086ab jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="31d086ab" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation-float jeg_module_169_13_69594d5b06730" ><div class="jkit-icon-box-wrapper hover-from-left hover-gradient"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><svg aria-hidden="true" class="e-font-icon-svg e-fas-bezier-curve" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M368 32h-96c-17.67 0-32 14.33-32 32v96c0 17.67 14.33 32 32 32h96c17.67 0 32-14.33 32-32V64c0-17.67-14.33-32-32-32zM208 88h-84.75C113.75 64.56 90.84 48 64 48 28.66 48 0 76.65 0 112s28.66 64 64 64c26.84 0 49.75-16.56 59.25-40h79.73c-55.37 32.52-95.86 87.32-109.54 152h49.4c11.3-41.61 36.77-77.21 71.04-101.56-3.7-8.08-5.88-16.99-5.88-26.44V88zm-48 232H64c-17.67 0-32 14.33-32 32v96c0 17.67 14.33 32 32 32h96c17.67 0 32-14.33 32-32v-96c0-17.67-14.33-32-32-32zM576 48c-26.84 0-49.75 16.56-59.25 40H432v72c0 9.45-2.19 18.36-5.88 26.44 34.27 24.35 59.74 59.95 71.04 101.56h49.4c-13.68-64.68-54.17-119.48-109.54-152h79.73c9.5 23.44 32.41 40 59.25 40 35.34 0 64-28.65 64-64s-28.66-64-64-64zm0 272h-96c-17.67 0-32 14.33-32 32v96c0 17.67 14.33 32 32 32h96c17.67 0 32-14.33 32-32v-96c0-17.67-14.33-32-32-32z"></path></svg></div></div><div class="icon-box icon-box-body">
+                <h3 class="title">Inovação</h3><p class="icon-box-description">Desenvolvemos websites rápidos, seguros e adaptados a todos os dispositivos.</p>
+            </div>
+            
+            </div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3da8ded1" data-id="3da8ded1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-44ab741d jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="44ab741d" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation-float jeg_module_169_14_69594d5b07016" ><div class="jkit-icon-box-wrapper hover-from-left hover-gradient"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><svg aria-hidden="true" class="e-font-icon-svg e-fas-drafting-compass" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M457.01 344.42c-25.05 20.33-52.63 37.18-82.54 49.05l54.38 94.19 53.95 23.04c9.81 4.19 20.89-2.21 22.17-12.8l7.02-58.25-54.98-95.23zm42.49-94.56c4.86-7.67 1.89-17.99-6.05-22.39l-28.07-15.57c-7.48-4.15-16.61-1.46-21.26 5.72C403.01 281.15 332.25 320 256 320c-23.93 0-47.23-4.25-69.41-11.53l67.36-116.68c.7.02 1.34.21 2.04.21s1.35-.19 2.04-.21l51.09 88.5c31.23-8.96 59.56-25.75 82.61-48.92l-51.79-89.71C347.39 128.03 352 112.63 352 96c0-53.02-42.98-96-96-96s-96 42.98-96 96c0 16.63 4.61 32.03 12.05 45.66l-68.3 118.31c-12.55-11.61-23.96-24.59-33.68-39-4.79-7.1-13.97-9.62-21.38-5.33l-27.75 16.07c-7.85 4.54-10.63 14.9-5.64 22.47 15.57 23.64 34.69 44.21 55.98 62.02L0 439.66l7.02 58.25c1.28 10.59 12.36 16.99 22.17 12.8l53.95-23.04 70.8-122.63C186.13 377.28 220.62 384 256 384c99.05 0 190.88-51.01 243.5-134.14zM256 64c17.67 0 32 14.33 32 32s-14.33 32-32 32-32-14.33-32-32 14.33-32 32-32z"></path></svg></div></div><div class="icon-box icon-box-body">
+                <h3 class="title">Criatividade</h3><p class="icon-box-description">Criamos soluções personalizadas que refletem a identidade da sua marca.</p>
+            </div>
+            
+            </div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-10e0da01" data-id="10e0da01" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-75cd2f81 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="75cd2f81" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation-float jeg_module_169_15_69594d5b07880" ><div class="jkit-icon-box-wrapper hover-from-left hover-gradient"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><svg aria-hidden="true" class="e-font-icon-svg e-fas-award" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M97.12 362.63c-8.69-8.69-4.16-6.24-25.12-11.85-9.51-2.55-17.87-7.45-25.43-13.32L1.2 448.7c-4.39 10.77 3.81 22.47 15.43 22.03l52.69-2.01L105.56 507c8 8.44 22.04 5.81 26.43-4.96l52.05-127.62c-10.84 6.04-22.87 9.58-35.31 9.58-19.5 0-37.82-7.59-51.61-21.37zM382.8 448.7l-45.37-111.24c-7.56 5.88-15.92 10.77-25.43 13.32-21.07 5.64-16.45 3.18-25.12 11.85-13.79 13.78-32.12 21.37-51.62 21.37-12.44 0-24.47-3.55-35.31-9.58L252 502.04c4.39 10.77 18.44 13.4 26.43 4.96l36.25-38.28 52.69 2.01c11.62.44 19.82-11.27 15.43-22.03zM263 340c15.28-15.55 17.03-14.21 38.79-20.14 13.89-3.79 24.75-14.84 28.47-28.98 7.48-28.4 5.54-24.97 25.95-45.75 10.17-10.35 14.14-25.44 10.42-39.58-7.47-28.38-7.48-24.42 0-52.83 3.72-14.14-.25-29.23-10.42-39.58-20.41-20.78-18.47-17.36-25.95-45.75-3.72-14.14-14.58-25.19-28.47-28.98-27.88-7.61-24.52-5.62-44.95-26.41-10.17-10.35-25-14.4-38.89-10.61-27.87 7.6-23.98 7.61-51.9 0-13.89-3.79-28.72.25-38.89 10.61-20.41 20.78-17.05 18.8-44.94 26.41-13.89 3.79-24.75 14.84-28.47 28.98-7.47 28.39-5.54 24.97-25.95 45.75-10.17 10.35-14.15 25.44-10.42 39.58 7.47 28.36 7.48 24.4 0 52.82-3.72 14.14.25 29.23 10.42 39.59 20.41 20.78 18.47 17.35 25.95 45.75 3.72 14.14 14.58 25.19 28.47 28.98C104.6 325.96 106.27 325 121 340c13.23 13.47 33.84 15.88 49.74 5.82a39.676 39.676 0 0 1 42.53 0c15.89 10.06 36.5 7.65 49.73-5.82zM97.66 175.96c0-53.03 42.24-96.02 94.34-96.02s94.34 42.99 94.34 96.02-42.24 96.02-94.34 96.02-94.34-42.99-94.34-96.02z"></path></svg></div></div><div class="icon-box icon-box-body">
+                <h3 class="title">Qualidade</h3><p class="icon-box-description">Profissionais dedicados, com foco em qualidade e resultados.</p>
+            </div>
+            
+            </div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-adec120" data-id="adec120" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-729cc14 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box" data-id="729cc14" data-element_type="widget" data-widget_type="jkit_icon_box.default">
+					<div  class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation-float jeg_module_169_16_69594d5b08107" ><div class="jkit-icon-box-wrapper hover-from-left hover-gradient"><div class="icon-box icon-box-header elementor-animation-float"><div class="icon style-color"><svg aria-hidden="true" class="e-font-icon-svg e-fas-user-lock" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M224 256A128 128 0 1 0 96 128a128 128 0 0 0 128 128zm96 64a63.08 63.08 0 0 1 8.1-30.5c-4.8-.5-9.5-1.5-14.5-1.5h-16.7a174.08 174.08 0 0 1-145.8 0h-16.7A134.43 134.43 0 0 0 0 422.4V464a48 48 0 0 0 48 48h280.9a63.54 63.54 0 0 1-8.9-32zm288-32h-32v-80a80 80 0 0 0-160 0v80h-32a32 32 0 0 0-32 32v160a32 32 0 0 0 32 32h224a32 32 0 0 0 32-32V320a32 32 0 0 0-32-32zM496 432a32 32 0 1 1 32-32 32 32 0 0 1-32 32zm32-144h-64v-80a32 32 0 0 1 64 0z"></path></svg></div></div><div class="icon-box icon-box-body">
+                <h3 class="title">Confiança </h3><p class="icon-box-description">Suporte contínuo para manter o seu website sempre a funcionar.</p>
+            </div>
+            
+            </div></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-19cb538d elementor-widget elementor-widget-text-editor" data-id="19cb538d" data-element_type="widget" data-widget_type="text-editor.default">
+									<p>Se tiveres alguma dúvida, fala connosco aqui pelo +258 83 755 2832</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70b4f68f elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70b4f68f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6945d06c" data-id="6945d06c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7f869892 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f869892" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-582a52e8" data-id="582a52e8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-46941d66 elementor-widget elementor-widget-spacer" data-id="46941d66" data-element_type="widget" data-widget_type="spacer.default">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-40b5dc31" data-id="40b5dc31" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1f4ac034 elementor-widget elementor-widget-heading" data-id="1f4ac034" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Design de Sites</h2>				</div>
+				<div class="elementor-element elementor-element-39ce819c elementor-widget elementor-widget-text-editor" data-id="39ce819c" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">Criamos websites únicos que combinam <strong data-start="173" data-end="227">criatividade, funcionalidade e tecnologia avançada</strong>, garantindo uma navegação intuitiva e alinhada com os seus objetivos.</p>								</div>
+				<div class="elementor-element elementor-element-392d3165 elementor-widget__width-auto elementor-widget elementor-widget-jkit_button" data-id="392d3165" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_17_69594d5b0910d" ><a href="https://www.mozwebsites.com/websites/" class="jkit-button-wrapper">Saiba Mais</a></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-49dde052 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49dde052" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5da78ec" data-id="5da78ec" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-55290c08 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="55290c08" data-element_type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="jki jki-Design-3-light"></i>			</div>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-8f82227 elementor-widget__width-auto elementor-widget elementor-widget-jkit_fun_fact" data-id="8f82227" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+					<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_169_18_69594d5b0b275" ><div class=fun-fact-inner><div class="icon elementor-animation-"></div>
+            <div class="content">
+                <div class="number-wrapper"><span class="prefix"></span>
+        <span class="number" data-value="5" data-animation-duration="3500">0</span>
+        <span class="suffix"></span><sup class="super">+</sup></div>
+                <h2 class="title">Anos de Experiência</h2>
+            </div>
+        </div></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6d9a372e" data-id="6d9a372e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2666cbba elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon" data-id="2666cbba" data-element_type="widget" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="jki jki-design-light"></i>			</div>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-79ea278c elementor-widget__width-auto elementor-widget elementor-widget-jkit_fun_fact" data-id="79ea278c" data-element_type="widget" data-widget_type="jkit_fun_fact.default">
+					<div  class="jeg-elementor-kit jkit-fun-fact align-center hover-from-left elementor-animation- jeg_module_169_19_69594d5b0b876" ><div class=fun-fact-inner>
+            <div class="content">
+                <div class="number-wrapper"><span class="prefix"></span>
+        <span class="number" data-value="40" data-animation-duration="3500">0</span>
+        <span class="suffix"></span><sup class="super">+</sup></div>
+                <h2 class="title">Projetos Concluídos</h2>
+            </div>
+        </div></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-5872d2" data-id="5872d2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3159f564 elementor-widget elementor-widget-jkit_animated_text" data-id="3159f564" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_20_69594d5b0bf80"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Sobre a Empresa</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-35e53e9e elementor-widget elementor-widget-heading" data-id="35e53e9e" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">A Nossa História e Missão</h2>				</div>
+				<div class="elementor-element elementor-element-2cb2d9e6 elementor-widget elementor-widget-text-editor" data-id="2cb2d9e6" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">A <strong data-start="459" data-end="474">Mozwebsites</strong> é o seu parceiro criativo e inovador, <strong data-start="513" data-end="569">transformando ideias em projetos digitais de sucesso</strong>. Com estratégia, experiência e competência, oferecemos soluções web que fortalecem a sua marca na internet.</p>								</div>
+				<div class="elementor-element elementor-element-79d9122c elementor-widget elementor-widget-text-editor" data-id="79d9122c" data-element_type="widget" data-widget_type="text-editor.default">
+									<p data-start="681" data-end="900">O nosso compromisso é <strong data-start="703" data-end="747">criar websites que contam a sua história</strong>. Utilizamos as mais recentes tecnologias e práticas de design para garantir que o seu site seja <strong data-start="844" data-end="897">rápido, seguro e adaptado a todos os dispositivos</strong>.</p><p data-start="902" data-end="1051">Cada projeto é tratado com dedicação ,desde a conceção inicial até ao lançamento, assegurando que cada detalhe reflete a identidade da sua marca.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51a81c9e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51a81c9e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-578661bb" data-id="578661bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fe804f5 elementor-widget elementor-widget-jkit_animated_text" data-id="fe804f5" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_21_69594d5b0cf50"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Criação de Websites</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-68bd82d0 elementor-widget elementor-widget-heading" data-id="68bd82d0" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Os Nossos Preços de Websites</h2>				</div>
+				<div class="elementor-element elementor-element-1c03d590 elementor-widget elementor-widget-text-editor" data-id="1c03d590" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []"><strong>Soluções Personalizadas para o Seu Sucesso Online</strong></p>								</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-33956bf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33956bf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7bceae74" data-id="7bceae74" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1b2623cd elementor-widget elementor-widget-heading" data-id="1b2623cd" data-element_type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Basico</h3>				</div>
+				<div class="elementor-element elementor-element-5aefc00 elementor-widget elementor-widget-jkit_heading" data-id="5aefc00" data-element_type="widget" data-widget_type="jkit_heading.default">
+					<div  class="jeg-elementor-kit jkit-heading  align- align-tablet- align-mobile- jeg_module_169_22_69594d5b0db71" ><div class="heading-section-title  display-inline-block"><h2 class="heading-title">Página Única</h2></div></div>				</div>
+				<div class="elementor-element elementor-element-39dbacc7 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="39dbacc7" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-3f7b19f9 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3f7b19f9" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Website de uma página</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Domínio (.co.mz)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">5 contas de e-mail</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Integração com WhatsApp</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">5GB de armazenamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Suporte contínuo 24/7</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-107d6184 elementor-widget__width-inherit elementor-widget elementor-widget-jkit_button" data-id="107d6184" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_23_69594d5b0e345" ><a href="https://www.mozwebsites.com/formulario-website/" class="jkit-button-wrapper hover-gradient"><span>Consultar preço</span></a></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56ba4f7b" data-id="56ba4f7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3bea6846 elementor-widget elementor-widget-heading" data-id="3bea6846" data-element_type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Standard</h3>				</div>
+				<div class="elementor-element elementor-element-0b1819c elementor-widget elementor-widget-jkit_heading" data-id="0b1819c" data-element_type="widget" data-widget_type="jkit_heading.default">
+					<div  class="jeg-elementor-kit jkit-heading  align- align-tablet- align-mobile- jeg_module_169_24_69594d5b0eb5e" ><div class="heading-section-title  display-inline-block"><h2 class="heading-title">Site Empresarial</h2></div></div>				</div>
+				<div class="elementor-element elementor-element-23debe54 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23debe54" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-427bde6d elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="427bde6d" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Website de até 10 páginas</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Domínio (.co.mz)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">15 contas de e-mail</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Integração com WhatsApp</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">15GB de armazenamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Suporte contínuo 24/7</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-4ecab097 elementor-widget__width-inherit elementor-widget elementor-widget-jkit_button" data-id="4ecab097" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_25_69594d5b0f297" ><a href="https://www.mozwebsites.com/formulario-site-empresarial/" class="jkit-button-wrapper hover-gradient"><span>Consultar preço</span></a></div>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-56f6b665" data-id="56f6b665" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-19c67a4a elementor-widget elementor-widget-heading" data-id="19c67a4a" data-element_type="widget" data-widget_type="heading.default">
+					<h3 class="elementor-heading-title elementor-size-default">Premium</h3>				</div>
+				<div class="elementor-element elementor-element-5d65f41 elementor-widget elementor-widget-jkit_heading" data-id="5d65f41" data-element_type="widget" data-widget_type="jkit_heading.default">
+					<div  class="jeg-elementor-kit jkit-heading  align- align-tablet- align-mobile- jeg_module_169_26_69594d5b0fa7f" ><div class="heading-section-title  display-inline-block"><h2 class="heading-title">Loja Online</h2></div></div>				</div>
+				<div class="elementor-element elementor-element-32d2e556 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="32d2e556" data-element_type="widget" data-widget_type="divider.default">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-2fd17333 elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2fd17333" data-element_type="widget" data-widget_type="icon-list.default">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Capacidade para até 250 produtos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Domínio (.co.mz)</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Contas de e-mail ilimitadas</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Integração com gateway de pagamentos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">30GB de armazenamento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="jki jki-angle-double-right-solid"></i>						</span>
+										<span class="elementor-icon-list-text">Suporte contínuo 24/7</span>
+									</li>
+						</ul>
+						</div>
+				<div class="elementor-element elementor-element-2699d8e2 elementor-widget__width-inherit elementor-widget elementor-widget-jkit_button" data-id="2699d8e2" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_27_69594d5b10179" ><a href="https://www.mozwebsites.com/formulario-loja-online/" class="jkit-button-wrapper hover-gradient"><span>Consultar preço</span></a></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6c372977 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c372977" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7ba8a885" data-id="7ba8a885" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9203388 elementor-widget elementor-widget-jkit_animated_text" data-id="9203388" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_28_69594d5b10969"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Os Nossos Serviços</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-5f028cce elementor-widget elementor-widget-heading" data-id="5f028cce" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Soluções Inovadoras para o Seu Negócio</h2>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-740cbfa6" data-id="740cbfa6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49619dc elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-jkit_button" data-id="49619dc" data-element_type="widget" data-widget_type="jkit_button.default">
+					<div  class="jeg-elementor-kit jkit-button  icon-position-after jeg_module_169_29_69594d5b10f4b" ><a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Cria%C3%A7%C3%A3o%20de%20Websites%20e%20E-mails%20Corporativos.%20Pode%20dar-me%20mais%20informações%3F" class="jkit-button-wrapper hover-gradient"><span>Falar no WhatsApp</span></a></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4cbaf340 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4cbaf340" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4eadb80e" data-id="4eadb80e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-238cb55b elementor-widget elementor-widget-image" data-id="238cb55b" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Cria%C3%A7%C3%A3o%20de%20Websites%20e%20E-mails%20Corporativos.%20Pode%20dar-me%20mais%20informações%3F">
+							<img decoding="async" src="https://www.mozwebsites.com/wp-content/uploads/elementor/thumbs/man-is-using-laptop-with-many-buttons-screen-scaled-r9tvvau4nqg64y10b9m3li2ryj25fzd0e47xa68cuo.jpg" title="man-is-using-laptop-with-many-buttons-screen" alt="man-is-using-laptop-with-many-buttons-screen" loading="lazy" />								</a>
+															</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-29711f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29711f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4dd25ca1" data-id="4dd25ca1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-25e65c09 elementor-widget elementor-widget-heading" data-id="25e65c09" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Cria%C3%A7%C3%A3o%20de%20Websites%20e%20E-mails%20Corporativos.%20Pode%20dar-me%20mais%20informações%3F">Criação de Websites &amp;
+E-mails Corporativos.</a></h2>				</div>
+				<div class="elementor-element elementor-element-5e791e23 elementor-widget elementor-widget-text-editor" data-id="5e791e23" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">Websites modernos e responsivos com design apelativo e excelente experiência de utilizador.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3980589d" data-id="3980589d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6fab6cdd elementor-widget elementor-widget-image" data-id="6fab6cdd" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Identidade%20Visual%20e%20Cria%C3%A7%C3%A3o%20de%20Log%C3%B3tipos.%20Pode%20dar-me%20mais%20informações%3F">
+							<img decoding="async" src="https://www.mozwebsites.com/wp-content/uploads/elementor/thumbs/portrait-young-african-woman-with-laptop-white-scaled-r9tw1byuigpemv9m3dgx3ha96jbxu2b07yx353aexc.jpg" title="portrait-young-african-woman-with-laptop-white" alt="portrait-young-african-woman-with-laptop-white" loading="lazy" />								</a>
+															</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-69d9b5a0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69d9b5a0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4e20e916" data-id="4e20e916" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1252daaa elementor-widget elementor-widget-heading" data-id="1252daaa" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Identidade%20Visual%20e%20Cria%C3%A7%C3%A3o%20de%20Log%C3%B3tipos.%20Pode%20dar-me%20mais%20informações%3F">Identidade Visual &amp; Criação de Logótipos.</a></h2>				</div>
+				<div class="elementor-element elementor-element-16c755f3 elementor-widget elementor-widget-text-editor" data-id="16c755f3" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">Identidades visuais únicas com logotipos que refletem os valores da sua marca.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-198ada70" data-id="198ada70" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-764f7d0c elementor-widget elementor-widget-image" data-id="764f7d0c" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Gest%C3%A3o%20de%20Redes%20Sociais%20e%20Google%20Ads.%20Pode%20dar-me%20mais%20informações%3F">
+							<img decoding="async" src="https://www.mozwebsites.com/wp-content/uploads/elementor/thumbs/black-woman-sofa-with-phone-emoji-social-media-chat-video-online-home-happy-face-smile-internet-girl-couch-with-connectivity-smartphone-funny-viral-meme-post-scaled-r9twv3iuxlgaac14a8nm1yvqdsmdl0h0bamm8j5lw0.jpg" title="black-woman-sofa-with-phone-emoji-social-media-chat-video-online-home-happy-face-smile-internet-girl-couch-with-connectivity-smartphone-funny-viral-meme-post" alt="Black woman on sofa with phone, and emoji on social media, chat or video online in home. Happy face, smile and internet, girl on couch with connectivity on smartphone and funny viral meme or post" loading="lazy" />								</a>
+															</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-10eaeafc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="10eaeafc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4e9f264a" data-id="4e9f264a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dabed8d elementor-widget elementor-widget-heading" data-id="7dabed8d" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Gest%C3%A3o%20de%20Redes%20Sociais%20e%20Google%20Ads.%20Pode%20dar-me%20mais%20informações%3F">Gestão de Redes Sociais &amp; Google Ads.</a></h2>				</div>
+				<div class="elementor-element elementor-element-2f8c151e elementor-widget elementor-widget-text-editor" data-id="2f8c151e" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">Estratégias visuais para campanhas digitais que geram impacto e engajamento.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-49362891" data-id="49362891" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6a8f84f5 elementor-widget elementor-widget-image" data-id="6a8f84f5" data-element_type="widget" data-widget_type="image.default">
+																<a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Design%20de%20Cartazes%20e%20Company%20Profile.%20Pode%20dar-me%20mais%20informações%3F">
+							<img decoding="async" src="https://www.mozwebsites.com/wp-content/uploads/elementor/thumbs/international-internet-day-r9txpzhxilqht15wx3b9hoa14mdliy3gw6e0yvcvf4.jpg" title="international-internet-day" alt="international-internet-day" loading="lazy" />								</a>
+															</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-20bcaeb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20bcaeb2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7017a632" data-id="7017a632" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-16cce4c elementor-widget elementor-widget-heading" data-id="16cce4c" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default"><a href="https://wa.me/258837552832?text=Ol%C3%A1!%20Tenho%20interesse%20nos%20servi%C3%A7os%20de%20Design%20de%20Cartazes%20e%20Company%20Profile.%20Pode%20dar-me%20mais%20informações%3F">Design de Cartazes &amp;<br>Company Profile.</a></h2>				</div>
+				<div class="elementor-element elementor-element-1cc2f3f3 elementor-widget elementor-widget-text-editor" data-id="1cc2f3f3" data-element_type="widget" data-widget_type="text-editor.default">
+									<p dir="ltr" data-pm-slice="1 1 []">Software à medida, robusto e escalável para as necessidades do seu negócio.</p>								</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6f40b5ad elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f40b5ad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d8c6f6" data-id="3d8c6f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-80a42b7 elementor-widget elementor-widget-jkit_animated_text" data-id="80a42b7" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_30_69594d5b128b2"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Portfólio</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-4fb492d elementor-widget elementor-widget-heading" data-id="4fb492d" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Os nossos Projetos</h2>				</div>
+				<div class="elementor-element elementor-element-01e5de7 elementor-widget elementor-widget-image-carousel" data-id="01e5de7" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Carrossel de imagens" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/wordcl.avif.avif" alt="wordcl.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/siby.avif.avif" alt="siby.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/rov.avif.avif" alt="rov.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/pontv.avif.avif" alt="pontv.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/mms.avif.avif" alt="mms.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Iddes.avif.avif" alt="Iddes.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/ggc.avif.avif" alt="ggc.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/geoeye.avif.avif" alt="geoeye.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/genios.avif.avif" alt="genios.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Gam.avif.avif" alt="Gam.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/fcc.avif.avif" alt="fcc.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/fb.avif.avif" alt="fb.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Esq.avif.avif" alt="Esq.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Emia.avif.avif" alt="Emia.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="15 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Eh.avif.avif" alt="Eh.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="16 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Art.avif.avif" alt="Art.avif" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="17 de 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://www.mozwebsites.com/wp-content/uploads/2025/08/Agilyt.avif.avif" alt="Agilyt.avif" /></figure></div>			</div>
+							
+									</div>
+						</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<footer data-elementor-type="footer" data-elementor-id="164" class="elementor elementor-164 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-517e6fc0 elementor-reverse-tablet elementor-reverse-mobile elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="517e6fc0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3da32eb4" data-id="3da32eb4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5fa320b7 elementor-widget elementor-widget-jkit_animated_text" data-id="5fa320b7" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+					<div  class="jeg-elementor-kit jkit-animated-text jeg_module_169_31_69594d5b14b55"  data-style="none"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">Nossa Newsletter</span></span><span class="normal-text style-color"></span></p></div>				</div>
+				<div class="elementor-element elementor-element-7bbddad9 elementor-widget elementor-widget-heading" data-id="7bbddad9" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Subscreva-se a nossa Newsletter </h2>				</div>
+				<div class="elementor-element elementor-element-31b0a39c elementor-widget elementor-widget-text-editor" data-id="31b0a39c" data-element_type="widget" data-widget_type="text-editor.default">
+									<p>Subscreve a newsletter para receberes dicas tecnológicas</p>								</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-24f25b00 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24f25b00" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-70477d0d" data-id="70477d0d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49f88fd8 elementor-widget elementor-widget-jkit_mailchimp" data-id="49f88fd8" data-element_type="widget" data-widget_type="jkit_mailchimp.default">
+					<div  class="jeg-elementor-kit jkit-mailchimp style-inline jeg_module_169_32_69594d5b17bb0" ><form method="post" class="jkit-mailchimp-form" data-listed="" data-success-message="Successfully listed this email" data-error-message="Something went wrong">
+            <div class="jkit-mailchimp-message"></div>
+            <div class="jkit-form-wrapper email-form">
+                <div class="jkit-mailchimp-email jkit-input-wrapper input-container">
+            <div class="jkit-form-group">
+                <div class="jkit-input-element-container jkit-input-group">
+                    <input type="email" name="email" class="jkit-email jkit-form-control " placeholder="Seu email" required="">
+                </div>
+            </div>
+        </div><div class="jkit-submit-input-holder jkit-input-wrapper">
+            <button type="submit" class="jkit-mailchimp-submit position-before" name="jkit-mailchimp">
+                Subscrever-se
+            </button>
+        </div>
+            </div>
+        </form></div>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4f199492 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f199492" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1dad7921" data-id="1dad7921" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2b92ac67 elementor-widget elementor-widget-heading" data-id="2b92ac67" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default"> +258 83 755 2832    I    geral@mozwebsites.com</h2>				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-651149cd" data-id="651149cd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-eb790f1 elementor-view-stacked elementor-widget__width-initial elementor-fixed elementor-shape-circle elementor-widget elementor-widget-icon" data-id="eb790f1" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;}" data-widget_type="icon.default">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-grow" href="https://wa.me/258837552832?text=Olá%2C%20visitei%20o%20site%20da%20Moz%20Websites%20e%20me%20interessei%20pelos%20vossos%20serviços.%20Podem%20dar-me%20mais%20informações%3F">
+			<svg aria-hidden="true" class="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>			</a>
+		</div>
+						</div>
+				<div class="elementor-element elementor-element-5885c827 elementor-widget elementor-widget-heading" data-id="5885c827" data-element_type="widget" data-widget_type="heading.default">
+					<h2 class="elementor-heading-title elementor-size-default">Copyright © 2025. Todos os direitos reservados.</h2>				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=1746229403446248&ev=PageView&noscript=1&cd%5Bpage_title%5D=HOME&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=169&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=www.mozwebsites.com%2F" alt=""></noscript>
+<link rel='stylesheet' id='jeg-dynamic-style-css' href='https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles.css?ver=1.3.0' media='all' />
+<link rel='stylesheet' id='elementor-post-63-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/css/post-63.css?ver=1766791045' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-nunitosans-css' href='https://www.mozwebsites.com/wp-content/uploads/elementor/google-fonts/css/nunitosans.css?ver=1754152303' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.34.0' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://www.mozwebsites.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.34.0' media='all' />
+<script src="https://www.mozwebsites.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.34.0" id="elementor-webpack-runtime-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.34.0" id="elementor-frontend-modules-js"></script>
+<script src="https://www.mozwebsites.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.34.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_interactions":true,"import-export-customization":true,"mega-menu":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/www.mozwebsites.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.mozwebsites.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.mozwebsites.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"5b718be103"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":169,"title":"MOZ%20WEBSITES%20%E2%80%93%20WEBSITES","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.34.0" id="elementor-frontend-js"></script>
+<script id="elementor-frontend-js-after">
+var jkit_ajax_url = "https://www.mozwebsites.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "2ae0053736";
+//# sourceURL=elementor-frontend-js-after
+</script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=4.1.0" id="cute-alert-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4" id="hello-theme-frontend-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-ed443a3a3d45126a22ce.js" id="googlesitekit-events-provider-wpforms-js" defer></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min.js?ver=11.6.16" id="sweetalert2-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu.js?ver=3.0.1" id="jkit-element-navmenu-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact.js?ver=3.0.1" id="jkit-element-funfact-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/animated-text.js?ver=3.0.1" id="jkit-element-animatedtext-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/mailchimp.js?ver=3.0.1" id="jkit-element-mailchimp-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/off-canvas.js?ver=3.0.1" id="jkit-element-offcanvas-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/search.js?ver=3.0.1" id="jkit-element-search-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element.js?ver=3.0.1" id="jkit-sticky-element-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.33.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://www.mozwebsites.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://www.mozwebsites.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.mozwebsites.com\/wp-admin\/admin-ajax.php","nonce":"2ef4d753da","urls":{"assets":"https:\/\/www.mozwebsites.com\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/www.mozwebsites.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.mozwebsites.com\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.33.1" id="elementor-pro-frontend-js"></script>
+<script src="https://www.mozwebsites.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.33.1" id="pro-elements-handlers-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.mozwebsites.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.mozwebsites.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
