@@ -560,9 +560,12 @@ p {
         gap: 2rem;
     }
 
-    .hero-secondary-text h2,
-    .hero-secondary-text p {
+    .hero-secondary-text h2 {
         text-align: center;
+    }
+
+    .hero-secondary-text p {
+        text-align: justify;
     }
 
     .hero-secondary-visual {
