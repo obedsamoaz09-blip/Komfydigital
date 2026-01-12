@@ -2451,6 +2451,26 @@ p {
     .footer-socials {
         justify-content: flex-start;
     }
+
+    /* Ajustes Plano Personalizado Mobile */
+    .custom-plan-card {
+        padding: 1.5rem !important;
+    }
+
+    .gear-icon-wrapper {
+        width: 60px !important;
+        height: 60px !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .gear-icon {
+        width: 32px !important;
+        height: 32px !important;
+    }
+
+    .custom-plan-info h3 {
+        font-size: 1.3rem !important;
+    }
 }
 
 /* Mobile Pequeno (480px) */
