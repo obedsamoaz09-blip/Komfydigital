@@ -52,19 +52,23 @@
     --transition-slow: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-html {
-    scroll-behavior: smooth;
-    font-size: 14px;
-}
-
 body {
     font-family: var(--font-body);
     background: var(--bg-primary);
     color: var(--text-primary);
     line-height: 1.6;
     overflow-x: hidden;
+    width: 100%;
+    position: relative;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 14px;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 /* Parágrafos com texto estendido (letter-spacing) */
@@ -113,6 +117,9 @@ p {
     filter: brightness(1.2);
 }
 
+/* ===================================
+   NAVIGATION MENU (Desktop & Foundation)
+   =================================== */
 .nav-menu {
     display: flex;
     gap: 1.75rem;
@@ -132,6 +139,85 @@ p {
 .nav-link:hover,
 .nav-link.active {
     color: var(--primary);
+}
+
+/* ===================================
+   MENU TOGGLE (Hamburguer)
+   =================================== */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 1001;
+}
+
+.menu-toggle span {
+    width: 100%;
+    height: 2px;
+    background-color: var(--primary);
+    border-radius: 10px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.menu-toggle.active span:nth-child(1) {
+    transform: translateY(9px) rotate(45deg);
+}
+
+.menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: flex;
+    }
+
+    .header-nav {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        max-width: 300px;
+        height: 100vh;
+        background: var(--bg-secondary);
+        z-index: 1000;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 2rem;
+        transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        border-left: 1px solid var(--border-color);
+        box-shadow: -20px 0 50px rgba(0, 0, 0, 0.8);
+    }
+
+    .header-nav.active {
+        right: 0;
+    }
+
+    .nav-menu {
+        flex-direction: column;
+        gap: 2rem !important;
+        align-items: flex-start;
+    }
+
+    .nav-link {
+        font-size: 1.4rem !important;
+        color: var(--text-primary);
+    }
+
+    .header-cta .btn-outline {
+        display: none;
+    }
 }
 
 /* ===================================
@@ -422,7 +508,8 @@ p {
 
 @media (max-width: 992px) {
     .hero .container {
-        grid-template-columns: 1fr;
+        display: flex;
+        flex-direction: column;
         text-align: center;
     }
 
@@ -441,6 +528,22 @@ p {
         border-left: none;
         padding-left: 0;
         margin-top: 1rem;
+    }
+
+    .hero-secondary-content {
+        grid-template-columns: 1fr;
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .hero-secondary-text h2,
+    .hero-secondary-text p {
+        text-align: center;
+    }
+
+    .hero-secondary-visual {
+        order: -1;
+        /* Logo above text on mobile */
     }
 
     .hero-visual {
