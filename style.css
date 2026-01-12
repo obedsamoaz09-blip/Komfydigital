@@ -76,6 +76,27 @@ p {
     letter-spacing: 0.02em;
 }
 
+/* ===================================
+   SCROLLBAR (Personalizada)
+   =================================== */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary);
+    border-radius: 5px;
+    border: 2px solid #1a1a1a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #d99000;
+}
+
 .container {
     max-width: 1140px;
     margin: 0 auto;
