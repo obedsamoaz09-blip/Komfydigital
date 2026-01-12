@@ -102,9 +102,14 @@ window.addEventListener('scroll', updateActiveNavLink);
 // ===================================
 // FADE-IN ANIMATIONS: Intersection Observer
 // ===================================
+
+// Detectar se está em mobile
+const isMobile = window.innerWidth <= 768;
+
+// Opções otimizadas para mobile e desktop
 const observerOptions = {
-    threshold: 0.15,
-    rootMargin: '0px 0px -80px 0px'
+    threshold: isMobile ? 0.05 : 0.15, // Mobile: dispara mais cedo
+    rootMargin: isMobile ? '0px 0px -20px 0px' : '0px 0px -80px 0px' // Mobile: margem menor
 };
 
 const fadeInObserver = new IntersectionObserver((entries) => {
@@ -117,11 +122,16 @@ const fadeInObserver = new IntersectionObserver((entries) => {
 }, observerOptions);
 
 // Aplica fade-in aos cards informativos e novos elementos
-const fadeElements = document.querySelectorAll('.hero-info-card, .why-card, .about-grid, .pricing-card, .service-card, .portfolio-card');
+const fadeElements = document.querySelectorAll('.why-card, .about-grid, .why-hire-card, .pricing-card, .service-card, .portfolio-card');
+
+// Velocidades otimizadas: mais rápidas em mobile
+const animationDuration = isMobile ? 0.4 : 0.6; // Mobile: 0.4s, Desktop: 0.6s
+const staggerDelay = isMobile ? 0.05 : 0.1; // Mobile: 0.05s entre elementos, Desktop: 0.1s
+
 fadeElements.forEach((element, index) => {
     element.style.opacity = '0';
-    element.style.transform = 'translateY(30px)';
-    element.style.transition = `opacity 0.6s ease ${index * 0.1}s, transform 0.6s ease ${index * 0.1}s`;
+    element.style.transform = isMobile ? 'translateY(15px)' : 'translateY(30px)'; // Menos movimento em mobile
+    element.style.transition = `opacity ${animationDuration}s ease ${index * staggerDelay}s, transform ${animationDuration}s ease ${index * staggerDelay}s`;
     fadeInObserver.observe(element);
 });
 
@@ -169,7 +179,8 @@ function animateMetricCounter(element) {
 
     if (isNaN(targetNumber)) return;
 
-    const duration = 2000;
+    // Duração mais rápida em mobile: 1s, desktop: 2s
+    const duration = isMobile ? 1000 : 2000;
     const increment = targetNumber / (duration / 16);
     let currentNumber = 0;
 
@@ -183,6 +194,7 @@ function animateMetricCounter(element) {
         }
     }, 16);
 }
+
 
 const metricsObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -215,14 +227,149 @@ window.addEventListener('load', () => {
 // CONSOLE BRANDING
 // ===================================
 console.log(
-    '%c🚀 KOMYFY WEBSITE — 100% CONCLUÍDO! ',
-    'background: #F2A900; color: #0B0B0B; font-size: 18px; font-weight: bold; padding: 8px 16px; border-radius: 4px;'
-);
-console.log(
-    '%c✅ Todas as 4 Fases Implementadas — Pronto para Lançamento!',
-    'color: #4CAF50; font-size: 13px; font-weight: 600;'
-);
-console.log(
     '%cHeader → Hero → Diferenciais → Sobre → Planos → Serviços → Portfólio → Newsletter → Footer',
     'color: #E5E5E5; font-size: 11px;'
 );
+
+// ===================================
+// PARTICLE NETWORK ANIMATION (ADM Style)
+// ===================================
+const canvas = document.getElementById('particleCanvas');
+if (canvas) {
+    const ctx = canvas.getContext('2d');
+    let particlesArray;
+
+    // Set canvas size
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    // Handle resize
+    window.addEventListener('resize', () => {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        initParticles();
+    });
+
+    // Mouse interaction
+    const mouse = {
+        x: null,
+        y: null,
+        radius: 150
+    }
+
+    window.addEventListener('mousemove', (event) => {
+        mouse.x = event.x;
+        mouse.y = event.y;
+    });
+
+    // Particle Class
+    class Particle {
+        constructor(x, y, directionX, directionY, size, color) {
+            this.x = x;
+            this.y = y;
+            this.directionX = directionX;
+            this.directionY = directionY;
+            this.size = size;
+            this.color = color;
+        }
+
+        // Draw particle
+        draw() {
+            ctx.beginPath();
+            ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2, false);
+            ctx.fillStyle = this.color;
+            ctx.fill();
+        }
+
+        // Update particle position
+        update() {
+            // Boundary checks
+            if (this.x > canvas.width || this.x < 0) {
+                this.directionX = -this.directionX;
+            }
+            if (this.y > canvas.height || this.y < 0) {
+                this.directionY = -this.directionY;
+            }
+
+            // Mouse repulsion
+            let dx = mouse.x - this.x;
+            let dy = mouse.y - this.y;
+            let distance = Math.sqrt(dx * dx + dy * dy);
+
+            if (distance < mouse.radius + this.size) {
+                if (mouse.x < this.x && this.x < canvas.width - this.size * 10) {
+                    this.x += 10;
+                }
+                if (mouse.x > this.x && this.x > this.size * 10) {
+                    this.x -= 10;
+                }
+                if (mouse.y < this.y && this.y < canvas.height - this.size * 10) {
+                    this.y += 10;
+                }
+                if (mouse.y > this.y && this.y > this.size * 10) {
+                    this.y -= 10;
+                }
+            }
+
+            // Move particle
+            this.x += this.directionX;
+            this.y += this.directionY;
+
+            this.draw();
+        }
+    }
+
+    // Initialize particles
+    function initParticles() {
+        particlesArray = [];
+        // Calculate number of particles based on screen size
+        let numberOfParticles = (canvas.height * canvas.width) / 9000;
+
+        for (let i = 0; i < numberOfParticles; i++) {
+            let size = (Math.random() * 2) + 1; // Random size between 1 and 3
+            let x = (Math.random() * ((innerWidth - size * 2) - (size * 2)) + size * 2);
+            let y = (Math.random() * ((innerHeight - size * 2) - (size * 2)) + size * 2);
+            let directionX = (Math.random() * 2) - 1; // Random speed/direction
+            let directionY = (Math.random() * 2) - 1;
+            let color = 'rgba(242, 169, 0, 0.6)'; // Primary Orange color
+
+            particlesArray.push(new Particle(x, y, directionX, directionY, size, color));
+        }
+    }
+
+    // Connect particles with lines
+    function connectParticles() {
+        let opacityValue = 1;
+        for (let a = 0; a < particlesArray.length; a++) {
+            for (let b = a; b < particlesArray.length; b++) {
+                let distance = ((particlesArray[a].x - particlesArray[b].x) * (particlesArray[a].x - particlesArray[b].x)) +
+                    ((particlesArray[a].y - particlesArray[b].y) * (particlesArray[a].y - particlesArray[b].y));
+
+                if (distance < (canvas.width / 7) * (canvas.height / 7)) {
+                    opacityValue = 1 - (distance / 20000);
+                    ctx.strokeStyle = 'rgba(242, 169, 0,' + opacityValue + ')'; // Orange lines
+                    ctx.lineWidth = 1;
+                    ctx.beginPath();
+                    ctx.moveTo(particlesArray[a].x, particlesArray[a].y);
+                    ctx.lineTo(particlesArray[b].x, particlesArray[b].y);
+                    ctx.stroke();
+                }
+            }
+        }
+    }
+
+    // Animation Loop
+    function animateParticles() {
+        requestAnimationFrame(animateParticles);
+        ctx.clearRect(0, 0, innerWidth, innerHeight);
+
+        for (let i = 0; i < particlesArray.length; i++) {
+            particlesArray[i].update();
+        }
+        connectParticles();
+    }
+
+    // Start
+    initParticles();
+    animateParticles();
+}
