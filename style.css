@@ -568,6 +568,10 @@ p {
         text-align: justify;
     }
 
+    .hero-secondary-text p.secondary-cta-text {
+        text-align: center;
+    }
+
     .hero-secondary-visual {
         order: -1;
         /* Logo above text on mobile */
