@@ -421,7 +421,7 @@ p {
     max-width: 220px;
     object-fit: contain;
     filter: drop-shadow(0 0 30px rgba(242, 169, 0, 0.4));
-    animation: spin-slow 120s linear infinite;
+    animation: spin-slow 80s linear infinite;
     display: block;
     margin: 0 auto;
 }
@@ -547,7 +547,7 @@ p {
     }
 
     .spinning-logo-visual {
-        animation: spin-slow 120s linear infinite !important;
+        animation: spin-slow 80s linear infinite !important;
     }
 
     .hero-visual {
