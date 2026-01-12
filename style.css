@@ -579,7 +579,7 @@ p {
 
     .spinning-logo-visual {
         animation: spin-slow 50s linear infinite !important;
-        margin-bottom: 2rem;
+        margin-bottom: 3rem;
     }
 
     .hero-visual {
