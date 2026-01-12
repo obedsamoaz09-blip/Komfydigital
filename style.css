@@ -546,6 +546,10 @@ p {
         /* Logo above text on mobile */
     }
 
+    .spinning-logo-visual {
+        animation: spin-slow 300s linear infinite !important;
+    }
+
     .hero-visual {
         display: none;
     }
