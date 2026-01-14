@@ -169,7 +169,7 @@ p {
 }
 
 .header.scrolled {
-    padding: 0.5rem 0;
+    padding: 0.2rem 0;
     background: rgba(0, 0, 0, 0.95);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
 }
@@ -178,13 +178,13 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.15rem 0;
-    /* Reduced from 0.85rem */
+    padding: 0;
+    /* Minimal padding */
 }
 
 .logo-img {
-    height: 90px;
-    /* Reduced from 110px */
+    height: 75px;
+    /* Further reduction to slim navbar */
     width: auto;
     filter: brightness(1.2);
     border-radius: 12px;
@@ -666,8 +666,8 @@ p {
 /* Mobile Pequeno (480px) */
 @media (max-width: 480px) {
     .logo-img {
-        height: 55px;
-        /* Reduced from 70px */
+        height: 48px;
+        /* Slimmer logo for mobile navbar */
     }
 
     .hero-heading {
