@@ -10,6 +10,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: inherit;
 }
 
 :root {
@@ -29,8 +30,8 @@
     /* Tipografia */
     /* Tipografia Cinemática */
     --font-heading: 'Montserrat', sans-serif;
-    --font-body: 'Inter', sans-serif;
-    --font-serif: 'Cormorant Garamond', serif;
+    --font-body: 'Cormorant Garamond', serif;
+    --font-inter: 'Inter', sans-serif;
 
     /* Espaçamentos */
     --spacing-xs: 0.5rem;
@@ -66,16 +67,34 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.btn,
+.nav-link,
+.section-title {
+    font-family: var(--font-heading) !important;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
 html {
     scroll-behavior: smooth;
     font-size: 14px;
     overflow-x: hidden;
     width: 100%;
+    font-family: var(--font-body);
 }
 
 /* Parágrafos com texto estendido (letter-spacing) */
 p {
-    letter-spacing: 0.02em;
+    font-family: var(--font-body);
+    font-size: 1.15rem;
+    line-height: 1.6;
+    letter-spacing: 0.01em;
 }
 
 /* ===================================
@@ -125,7 +144,7 @@ p {
 }
 
 .section-subtitle {
-    font-family: var(--font-serif);
+    font-family: var(--font-body);
     font-style: italic;
     font-size: 1.4rem;
     color: var(--primary);
@@ -179,12 +198,13 @@ p {
 }
 
 .nav-link {
+    font-family: var(--font-heading);
     color: var(--text-secondary);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 700;
     font-size: 0.8rem;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     transition: color var(--transition-fast);
 }
 
@@ -263,7 +283,9 @@ p {
     }
 
     .nav-link {
+        font-family: var(--font-heading);
         font-size: 1.4rem !important;
+        font-weight: 700;
         color: var(--text-primary);
     }
 
@@ -401,7 +423,7 @@ p {
 }
 
 .hero-subheading {
-    font-family: var(--font-serif);
+    font-family: var(--font-body);
     font-style: italic;
     font-size: 1.5rem;
     color: var(--text-secondary);
@@ -464,7 +486,7 @@ p {
 }
 
 .hero-secondary-text p {
-    font-family: var(--font-serif);
+    font-family: var(--font-body);
     font-size: 1.35rem;
     line-height: 1.65;
     color: var(--text-secondary);
@@ -622,6 +644,15 @@ p {
 
     .hero-visual {
         display: none;
+    }
+
+    /* Force visibility of elements if Observer fails */
+    .why-hire-card,
+    .pricing-card,
+    .service-card,
+    .portfolio-card {
+        opacity: 1 !important;
+        transform: none !important;
     }
 }
 
@@ -1133,6 +1164,7 @@ p {
 }
 
 .why-hire-card-text {
+    font-family: var(--font-body);
     font-size: 0.78rem;
     line-height: 1.55;
     color: #444;
@@ -1256,7 +1288,8 @@ p {
     gap: 0.5rem;
     padding: 0.5rem 0;
     color: #444;
-    font-size: 0.75rem;
+    font-family: var(--font-body);
+    font-size: 1rem;
     line-height: 1.4;
 }
 
@@ -1339,9 +1372,10 @@ p {
 }
 
 .custom-plan-info p {
+    font-family: var(--font-body);
     color: #444;
-    font-size: 0.75rem;
-    line-height: 1.45;
+    font-size: 1.15rem;
+    line-height: 1.5;
     max-width: 450px;
 }
 
@@ -1513,10 +1547,10 @@ p {
 }
 
 .service-card p {
-    font-size: 0.75rem;
+    font-family: var(--font-body);
+    font-size: 1rem;
     line-height: 1.5;
     color: #444;
-    letter-spacing: 0.015em;
 }
 
 /* ===================================
@@ -1781,11 +1815,12 @@ p {
 }
 
 .portfolio-content p {
+    font-family: var(--font-heading);
     color: #444;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 0.8rem;
-    font-size: 0.7rem;
-    letter-spacing: 0.03em;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
 }
 
@@ -1848,9 +1883,9 @@ p {
 }
 
 .testimonial-avatar {
-    width: 38px;
-    height: 38px;
-    margin: -2.8rem auto 0.7rem;
+    width: 70px;
+    height: 70px;
+    margin: -4rem auto 0.9rem;
     position: relative;
     z-index: 2;
 }
@@ -1865,8 +1900,9 @@ p {
 }
 
 .testimonial-text {
+    font-family: var(--font-body);
     color: #444;
-    font-size: 0.72rem;
+    font-size: 1.1rem;
     line-height: 1.45;
     font-style: italic;
     margin-bottom: 0.8rem;
@@ -1881,10 +1917,12 @@ p {
 }
 
 .testimonial-author span {
+    font-family: var(--font-heading);
     color: var(--primary);
-    font-size: 0.6rem;
+    font-size: 0.75rem;
     font-weight: 700;
     text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 @media (max-width: 1200px) {
@@ -1948,11 +1986,12 @@ p {
 }
 
 .founder-bio {
-    font-size: 0.85rem;
+    font-family: var(--font-body);
+    font-size: 1.2rem;
     line-height: 1.65;
     color: var(--text-secondary);
     margin-bottom: 2rem;
-    max-width: 480px;
+    max-width: 580px;
 }
 
 .founder-bio strong {
@@ -1966,7 +2005,8 @@ p {
 }
 
 .founder-quote p {
-    font-size: 1rem;
+    font-family: var(--font-body);
+    font-size: 1.4rem;
     font-style: italic;
     color: var(--text-primary);
     line-height: 1.45;
@@ -1974,10 +2014,12 @@ p {
 }
 
 .founder-quote span {
+    font-family: var(--font-heading);
     color: var(--text-secondary);
-    font-size: 0.8rem;
+    font-size: 0.85rem;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
 }
 
 .founder-visual {
@@ -1989,7 +2031,7 @@ p {
 .founder-image-container {
     position: relative;
     width: 100%;
-    max-width: 500px;
+    max-width: 90%;
     z-index: 2;
 }
 
@@ -2156,9 +2198,10 @@ p {
 }
 
 .why-card-v2 p {
+    font-family: var(--font-body);
     color: #444;
-    font-size: 0.75rem;
-    line-height: 1.45;
+    font-size: 1rem;
+    line-height: 1.5;
 }
 
 @media (max-width: 992px) {
@@ -2173,6 +2216,7 @@ p {
 
     .founder-image-container {
         margin: 0 auto;
+        max-width: 85%;
     }
 
     .why-intro-v2 {
@@ -2241,11 +2285,12 @@ p {
 }
 
 .newsletter-card p {
+    font-family: var(--font-body);
+    font-style: italic;
     color: var(--text-secondary);
-    font-size: 0.9rem;
+    font-size: 1.25rem;
     line-height: 1.6;
     margin-bottom: 1.75rem;
-    letter-spacing: 0.02em;
 }
 
 .newsletter-form {
@@ -2316,9 +2361,10 @@ p {
 }
 
 .footer-description {
+    font-family: var(--font-body);
     color: var(--text-secondary);
     line-height: 1.65;
-    font-size: 0.85rem;
+    font-size: 1.1rem;
 }
 
 /* Links Rápidos */
@@ -2331,9 +2377,13 @@ p {
 }
 
 .footer-links a {
+    font-family: var(--font-heading);
     color: var(--text-secondary);
     text-decoration: none;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
     transition: color var(--transition-fast);
 }
 
@@ -2402,8 +2452,9 @@ p {
 }
 
 .footer-bottom p {
+    font-family: var(--font-serif);
     color: var(--text-secondary);
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 /* ===================================

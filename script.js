@@ -239,14 +239,17 @@ if (canvas) {
     const ctx = canvas.getContext('2d');
     let particlesArray;
 
-    // Set canvas size
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    // Set canvas size based on its display size
+    function resizeCanvas() {
+        canvas.width = canvas.offsetWidth;
+        canvas.height = canvas.offsetHeight;
+    }
+
+    resizeCanvas();
 
     // Handle resize
     window.addEventListener('resize', () => {
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
+        resizeCanvas();
         initParticles();
     });
 
@@ -258,8 +261,9 @@ if (canvas) {
     }
 
     window.addEventListener('mousemove', (event) => {
-        mouse.x = event.x;
-        mouse.y = event.y;
+        const rect = canvas.getBoundingClientRect();
+        mouse.x = event.clientX - rect.left;
+        mouse.y = event.clientY - rect.top;
     });
 
     // Particle Class
@@ -322,16 +326,17 @@ if (canvas) {
     // Initialize particles
     function initParticles() {
         particlesArray = [];
-        // Calculate number of particles based on screen size
-        let numberOfParticles = (canvas.height * canvas.width) / 9000;
+        // Calculate number of particles based on screen size (normalized)
+        let numberOfParticles = (canvas.height * canvas.width) / 12000;
+        if (numberOfParticles > 200) numberOfParticles = 200; // Cap to avoid lag
 
         for (let i = 0; i < numberOfParticles; i++) {
-            let size = (Math.random() * 2) + 1; // Random size between 1 and 3
-            let x = (Math.random() * ((innerWidth - size * 2) - (size * 2)) + size * 2);
-            let y = (Math.random() * ((innerHeight - size * 2) - (size * 2)) + size * 2);
-            let directionX = (Math.random() * 2) - 1; // Random speed/direction
-            let directionY = (Math.random() * 2) - 1;
-            let color = 'rgba(242, 169, 0, 0.6)'; // Primary Orange color
+            let size = (Math.random() * 2) + 1;
+            let x = Math.random() * canvas.width;
+            let y = Math.random() * canvas.height;
+            let directionX = (Math.random() * 1) - 0.5;
+            let directionY = (Math.random() * 1) - 0.5;
+            let color = 'rgba(242, 169, 0, 0.6)';
 
             particlesArray.push(new Particle(x, y, directionX, directionY, size, color));
         }
@@ -340,14 +345,18 @@ if (canvas) {
     // Connect particles with lines
     function connectParticles() {
         let opacityValue = 1;
+        // Use a fixed max distance for connections to prevent distortion
+        const maxDistance = 150;
+
         for (let a = 0; a < particlesArray.length; a++) {
             for (let b = a; b < particlesArray.length; b++) {
-                let distance = ((particlesArray[a].x - particlesArray[b].x) * (particlesArray[a].x - particlesArray[b].x)) +
-                    ((particlesArray[a].y - particlesArray[b].y) * (particlesArray[a].y - particlesArray[b].y));
+                let dx = particlesArray[a].x - particlesArray[b].x;
+                let dy = particlesArray[a].y - particlesArray[b].y;
+                let distance = Math.sqrt(dx * dx + dy * dy);
 
-                if (distance < (canvas.width / 7) * (canvas.height / 7)) {
-                    opacityValue = 1 - (distance / 20000);
-                    ctx.strokeStyle = 'rgba(242, 169, 0,' + opacityValue + ')'; // Orange lines
+                if (distance < maxDistance) {
+                    opacityValue = 1 - (distance / maxDistance);
+                    ctx.strokeStyle = 'rgba(242, 169, 0,' + opacityValue + ')';
                     ctx.lineWidth = 1;
                     ctx.beginPath();
                     ctx.moveTo(particlesArray[a].x, particlesArray[a].y);
@@ -361,7 +370,7 @@ if (canvas) {
     // Animation Loop
     function animateParticles() {
         requestAnimationFrame(animateParticles);
-        ctx.clearRect(0, 0, innerWidth, innerHeight);
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
 
         for (let i = 0; i < particlesArray.length; i++) {
             particlesArray[i].update();
