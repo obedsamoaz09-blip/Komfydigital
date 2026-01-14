@@ -2393,7 +2393,7 @@ p {
 
 .footer-links a {
     font-family: var(--font-heading);
-    color: var(--text-secondary);
+    color: var(--primary);
     text-decoration: none;
     font-size: 0.8rem;
     font-weight: 600;
@@ -2403,7 +2403,7 @@ p {
 }
 
 .footer-links a:hover {
-    color: var(--accent);
+    color: #fff;
 }
 
 /* Contactos */
