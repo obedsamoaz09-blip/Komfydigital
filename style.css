@@ -304,6 +304,15 @@ p {
         color: var(--text-primary);
     }
 
+    .header-cta .btn-primary {
+        display: none !important;
+    }
+
+    .btn-mobile-only {
+        display: inline-flex !important;
+        margin-top: 1.5rem;
+    }
+
     .header-cta .btn-outline {
         display: none;
     }
@@ -327,6 +336,10 @@ p {
     transition: all var(--transition-normal);
     cursor: pointer;
     border: none;
+}
+
+.btn-mobile-only {
+    display: none !important;
 }
 
 .btn-primary {
@@ -623,8 +636,8 @@ p {
     }
 
     .hero-cta-group {
-        flex-direction: column;
-        gap: 1.5rem;
+        flex-direction: column !important;
+        gap: 0.5rem !important;
     }
 
     .hero-stats-shorthand {
