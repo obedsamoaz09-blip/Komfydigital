@@ -369,11 +369,12 @@ p {
    =================================== */
 .hero {
     position: relative;
-    min-height: 85vh;
+    min-height: 100vh;
+    /* Increased from 85vh for full-screen impact */
     display: flex;
     align-items: center;
-    padding: 120px 0 40px;
-    /* Added top padding to clear fixed header */
+    padding: 160px 0 100px;
+    /* Increased vertical padding */
     background: var(--bg-primary);
     overflow: hidden;
 }
@@ -396,7 +397,8 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-    gap: 0.85rem;
+    gap: 2.5rem;
+    /* Increased gap for a more "airy" feel */
 }
 
 .hero-badge {
@@ -442,11 +444,13 @@ p {
     font-style: italic;
     font-size: 1.5rem;
     color: var(--text-secondary);
-    max-width: 650px;
+    max-width: 800px;
+    /* Increased width to spread the text slightly more */
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 1.5rem;
-    line-height: 1.4;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+    /* Increased line height for legibility */
     font-weight: 400;
 }
 
