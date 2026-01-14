@@ -178,11 +178,13 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.85rem 0;
+    padding: 0.15rem 0;
+    /* Reduced from 0.85rem */
 }
 
 .logo-img {
-    height: 110px;
+    height: 90px;
+    /* Reduced from 110px */
     width: auto;
     filter: brightness(1.2);
     border-radius: 12px;
@@ -664,7 +666,8 @@ p {
 /* Mobile Pequeno (480px) */
 @media (max-width: 480px) {
     .logo-img {
-        height: 70px;
+        height: 55px;
+        /* Reduced from 70px */
     }
 
     .hero-heading {
