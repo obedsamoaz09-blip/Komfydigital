@@ -182,7 +182,7 @@ p {
 }
 
 .logo-img {
-    height: 60px;
+    height: 85px;
     width: auto;
     filter: brightness(1.2);
     border-radius: 12px;
@@ -2355,9 +2355,11 @@ p {
 }
 
 .footer-logo {
-    height: 36px;
+    height: 60px;
     width: auto;
-    margin-bottom: 0.85rem;
+    margin-bottom: 1.2rem;
+    filter: brightness(1.2);
+    border-radius: 10px;
 }
 
 .footer-description {
