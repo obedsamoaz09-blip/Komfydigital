@@ -175,16 +175,18 @@ p {
 }
 
 .header-wrapper {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
     align-items: center;
     padding: 0;
-    /* Minimal padding */
+}
+
+.header-logo {
+    justify-self: start;
 }
 
 .logo-img {
     height: 75px;
-    /* Further reduction to slim navbar */
     width: auto;
     filter: brightness(1.2);
     border-radius: 12px;
@@ -193,6 +195,10 @@ p {
 /* ===================================
    NAVIGATION MENU (Desktop & Foundation)
    =================================== */
+.header-nav {
+    justify-self: center;
+}
+
 .nav-menu {
     display: flex;
     gap: 1.75rem;
@@ -249,6 +255,13 @@ p {
 
 .menu-toggle.active span:nth-child(3) {
     transform: translateY(-10px) rotate(-45deg);
+}
+
+.header-cta {
+    justify-self: end;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
 }
 
 @media (max-width: 768px) {
