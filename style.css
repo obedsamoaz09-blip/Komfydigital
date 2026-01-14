@@ -188,29 +188,56 @@ p {
     border-radius: 12px;
 }
 
-/* ===================================
-   NAVIGATION MENU (Desktop & Foundation)
-   =================================== */
+/* Consistent Header for All Devices (Logo Left, Toggle Right) */
+.header-nav {
+    display: none !important;
+    /* Hide links on all devices */
+}
+
+.header-cta .btn-outline {
+    display: none !important;
+    /* Hide button on all devices */
+}
+
+.menu-toggle {
+    display: flex !important;
+    /* Always show hamburger */
+}
+
+/* Mobile Menu Style (Now for all) */
+.header-nav {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 80%;
+    max-width: 300px;
+    height: 100vh;
+    background: var(--bg-secondary);
+    z-index: 1000;
+    display: none;
+    /* Reset for JS control */
+    flex-direction: column;
+    justify-content: center;
+    padding: 2.5rem;
+    transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border-left: 1px solid var(--border-color);
+    box-shadow: -20px 0 50px rgba(0, 0, 0, 0.8);
+}
+
+.header-nav.active {
+    display: flex !important;
+    right: 0;
+}
+
 .nav-menu {
-    display: flex;
-    gap: 1.75rem;
-    list-style: none;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: flex-start;
 }
 
 .nav-link {
-    font-family: var(--font-heading);
-    color: var(--text-secondary);
-    text-decoration: none;
-    font-weight: 700;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    transition: color var(--transition-fast);
-}
-
-.nav-link:hover,
-.nav-link.active {
-    color: var(--primary);
+    font-size: 1.25rem !important;
+    color: var(--text-primary);
 }
 
 /* ===================================
@@ -463,34 +490,96 @@ p {
     color: var(--text-secondary);
 }
 
-/* Secondary Hero Content */
-.hero-secondary-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2.2rem;
+/* Centered Hero Layout for All Devices */
+.hero .container {
+    flex-direction: column;
     align-items: center;
-    text-align: left;
-    padding-top: 2.2rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
-    width: 100%;
 }
 
-.hero-secondary-text h2 {
-    font-family: var(--font-heading);
-    font-weight: 800;
-    text-transform: uppercase;
-    font-size: 1.8rem;
-    line-height: 1.2;
-    margin-bottom: 1rem;
+.hero-content {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.hero-heading {
+    text-align: center;
+    margin: 0 auto 1.5rem;
+}
+
+.hero-subheading {
+    text-align: center;
+    margin: 0 auto 2rem;
+    font-style: italic;
+}
+
+.hero-cta-group {
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.btn-primary {
+    padding: 1rem 2.5rem;
+    font-size: 1rem;
+    min-width: 250px;
+}
+
+.hero-stats-shorthand {
+    border-left: none;
+    padding-left: 0;
     text-align: center;
 }
 
-.hero-secondary-text p {
-    font-family: var(--font-body);
-    font-size: 1.35rem;
-    line-height: 1.65;
-    color: var(--text-secondary);
-    text-align: justify;
+.stat-item strong {
+    font-size: 1.8rem;
+    margin-bottom: 0.2rem;
+}
+
+/* Secondary Content as Unified Flow */
+.hero-secondary-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding-top: 3rem;
+    border-top: none;
+    gap: 4rem;
+}
+
+.hero-secondary-text {
+    display: none;
+    /* Hide the extra paragraph to match the simple screenshot view */
+}
+
+.hero-secondary-visual {
+    perspective: 1000px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.spinning-logo-visual {
+    width: 280px;
+    height: 280px;
+    background: #000;
+    padding: 2rem;
+    border-radius: 40px;
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.8),
+        0 0 40px var(--primary-glow);
+    transform: rotateX(25deg) rotateY(-15deg) rotateZ(5deg);
+    transition: transform 0.8s ease;
+    animation: floating-tilt 6s infinite ease-in-out;
+    object-fit: contain;
+}
+
+@keyframes floating-tilt {
+
+    0%,
+    100% {
+        transform: rotateX(25deg) rotateY(-15deg) rotateZ(5deg) translateY(0);
+    }
+
+    50% {
+        transform: rotateX(20deg) rotateY(-10deg) rotateZ(2deg) translateY(-20px);
+    }
 }
 
 .secondary-cta-text {
