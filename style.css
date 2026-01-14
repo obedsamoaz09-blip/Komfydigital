@@ -2370,12 +2370,10 @@ p {
     max-width: 280px;
 }
 
-.footer-logo {
-    height: 60px;
-    width: auto;
-    margin-bottom: 1.2rem;
-    filter: brightness(1.2);
-    border-radius: 10px;
+.footer-spinning-logo {
+    max-width: 130px !important;
+    margin: 0 0 1.5rem 0 !important;
+    filter: drop-shadow(0 0 15px var(--primary-glow)) brightness(1.2);
 }
 
 .footer-description {
