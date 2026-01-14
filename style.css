@@ -182,7 +182,7 @@ p {
 }
 
 .logo-img {
-    height: 85px;
+    height: 110px;
     width: auto;
     filter: brightness(1.2);
     border-radius: 12px;
@@ -664,7 +664,7 @@ p {
 /* Mobile Pequeno (480px) */
 @media (max-width: 480px) {
     .logo-img {
-        height: 38px;
+        height: 70px;
     }
 
     .hero-heading {
