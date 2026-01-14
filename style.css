@@ -2368,11 +2368,15 @@ p {
 /* Coluna Marca */
 .footer-brand {
     max-width: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 .footer-spinning-logo {
-    max-width: 130px !important;
-    margin: 0 0 1.5rem 0 !important;
+    max-width: 100px !important;
+    margin: 0 auto 1.2rem auto !important;
     filter: drop-shadow(0 0 15px var(--primary-glow)) brightness(1.2);
 }
 
